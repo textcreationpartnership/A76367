@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bellamius enervatus: or, A full answer to a book entitled A plea for the commonalty of London. Which is as the authour Mr. Bellamy cals it; a vindication of their rights (which have been long withholden from them) in the choyce of sundry city officers. As also a iustification of the powerent the Court of Common-Counsell in the making of acts, or by-laws, for the good and profit of the citizens, notwithstanding the negative voyces of the Lord Major, and aldermen. / Refuted by Irenæus Lysimachus:.</title>
+            <author>Lysimachus, Irenaeus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76367</idno>
+            <idno type="STC">Wing B1819</idno>
+            <idno type="STC">Thomason E281_8</idno>
+            <idno type="STC">ESTC R200040</idno>
+            <idno type="EEBO-CITATION">99860843</idno>
+            <idno type="PROQUEST">99860843</idno>
+            <idno type="VID">158465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158465)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E281[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bellamius enervatus: or, A full answer to a book entitled A plea for the commonalty of London. Which is as the authour Mr. Bellamy cals it; a vindication of their rights (which have been long withholden from them) in the choyce of sundry city officers. As also a iustification of the powerent the Court of Common-Counsell in the making of acts, or by-laws, for the good and profit of the citizens, notwithstanding the negative voyces of the Lord Major, and aldermen. / Refuted by Irenæus Lysimachus:.</title>
+                  <author>Lysimachus, Irenaeus.</author>
+               </titleStmt>
+               <extent>[8], 38, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Irenæus Lysimachus is a pseudonym.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "May 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bellamie, John, d. 1654. --  Plea for the commonalty of London --  Early works to 1800.</term>
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158465:1" rendition="simple:additions"/>
+            <p>
+               <hi>BELLAMI<g ref="char:V">Ʋ</g>S ENERVAT<g ref="char:V">Ʋ</g>S:</hi> OR, A Full Anſwer to a Book Entitled <hi>A Plea for the Commonalty of</hi> London.</p>
+            <p>WHICH IS As the Authour M<hi rend="sup">r</hi>. <hi>Bellamy</hi> cals it; A <hi>Vindication of their Rights</hi> (which have been long withholden from them) in the choyce of ſundry City Officers.</p>
+            <p>AS ALSO A Iuſtification of the power of the Court of Common-Counſell in the making of Acts, or By-Laws, for the good and profit of the Citizens, notwithſtanding the negative voyces of the Lord Major, and ALDERMEN.</p>
+            <p>Refuted by <hi>Irenaeus Lyſimachus:</hi>
+            </p>
+            <l>
+               <hi>Non habenti auferetur</hi>
+            </l>
+            <l>
+               <hi>Et habere quod videtur.</hi>
+            </l>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:158465:2"/>
+            <pb facs="tcp:158465:2"/>
+            <head>TO THE RIGHT HONORABLE the Lord Mayor of the City of <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> and to the Right Worſhipfull the Aldermen, his Brethren:</head>
+            <opener>
+               <salute>Right Honorable, Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen at firſt I ſaw this empty Pam<g ref="char:EOLhyphen"/>phlet, Entitled, <hi>A Plea for the Com<g ref="char:EOLhyphen"/>monalty of London,</hi> peep out of the Preſſe; much like a Glow-worm, proud of ſome counterfeit light, which it pretended to have; I imagined it the beſt way to let it alone, that it might ſhame it ſelf by ſhewing it ſelf, as indeed needing no o<g ref="char:EOLhyphen"/>ther enemy to overthrow it but its own weak<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>But finding it ſince (with more ſucceſſe then deſert) to ſcatter a large ſpawn about the City by a ſecond Impreſſion; and that this painted worm began to deceive too many dim-ſighted Traveller: I thought fit (from the ſervice I owe to truth and Peace) and order which is a friend to them both) to ſend abroad this ſeaſon<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:158465:3"/>light, which though it bee but ſmall, is yet true, and I hope cleare enough to diſcover the other to be no more then a ſilly worm.</p>
+            <p>The Honour I beare to this famous City, and to the preſervation of its Peace fro<g ref="char:cmbAbbrStroke">̄</g> all ſeditious rents, which ſome turbulent ſick braines will be ever hatching in it, cauſeth me at this time to preſent to your wiſdoms two humble motions: The firſt as touching this Pamphlet, which I now take upon me to anſwer; the ſecond as touching the maintenance of that honour and power which God and the Kingdom have in<g ref="char:EOLhyphen"/>veſted you with, and particular hands cannot juſtly take from you.</p>
+            <p>As touching the Book, I will not aggravate the ſpirit that it carries, and that carries it a<g ref="char:EOLhyphen"/>long: nor the miſchief that ſuch a brat of too raſh a brain, may breed (if not prevented) to your ſelves and this City. What tumults, up<g ref="char:EOLhyphen"/>roares, might in all likelihood follow ſuch da<g ref="char:EOLhyphen"/>ring incouragements, in a multitude prickt with deſire of power, and power of vindicating pre<g ref="char:EOLhyphen"/>tended priviledges? (I bleſſe God) it hath yet taken no ſuch effect.</p>
+            <p>Nor will I aggravate the Authours offence, whom (humbly ſubmitting to your better
+<pb facs="tcp:158465:3"/>judgements:) I conceive bound by Oath not thus deſperately to have ſent abroad (without order from that Court, whereof he is a Member) ſo dan<g ref="char:EOLhyphen"/>gerous a ſpark as this is, which though it ſeem little at the firſt, if not timely quencht, may quickly prove a great Incendiary.</p>
+            <p>Nor laſtly, wil I tell you what power lies in your hands to puniſh ſuch an offender, thus indevouring to diſturb the Cities peace, by diſturbing the Ci<g ref="char:EOLhyphen"/>ties Order and Government, and thus (I had almoſt ſaid) violating his Sacred Oath.</p>
+            <p>
+               <hi>My Lord,</hi> I am not a man of that ſpirit: it was <hi>Caeſars</hi> honour that he overcame more, and more overcame by his clemency then his ſword; the laſt overcame but the bodies of men, the other their mindes: it will be your Lordſhips honour, and the reſt of your Brethren, who are all ingaged in this Quarrell, in reſpect of the Author of this Pamphlet, to indevour as not to loſe by him, ſo if poſſible to gain him, and if not to more wiſedom, to more o<g ref="char:EOLhyphen"/>bedience: But in the mean time I remember how <hi>Alexander</hi> dealt with one of his Souldiers, whom he heard railing at himſelf, who was his Generall. Though he might have puniſht him at his pleaſure, yet he took only this revenge upon him: He cau<g ref="char:EOLhyphen"/>ſed Proclamation to be made throughout his whole Army, that ſuch a Souldier had ſcandalouſly railed
+<pb facs="tcp:158465:4"/>againſt <hi>Alexander.</hi> And that therefore for the time to come, he ſhould have the liberty to ſay any thing what he liſted, were it good or bad; no bo<g ref="char:EOLhyphen"/>dy at all regarding or taking notice of what was ſpoken by ſuch a fellow as he.</p>
+            <p>You ſhall not need to make Proclamation what injury the Author hath done you by this Pamphlet (who is, as it were, one of your Souldiers, and you his General) the Book it ſelf ſufficiently ſhews it; and the <hi>Anſwer</hi> a little more then the Book: Let me only commend unto you this Heroicall Reſo<g ref="char:EOLhyphen"/>lution; Neither to mind it for the preſent, nor him for the future, nor whatſoever he ſhall ſpeak or write, till you find him wiſer, and <hi>Let that be his puniſhment.</hi>
+            </p>
+            <p>My ſecond Motion which concerns your ſelves is this: That you would ſeriouſly conſider, that the honor and power which is conferr'd upon you by Charter, and Cuſtome, (the ancienter of the two) though it be in your hands to uſe, is not in your power to give away: nor will your famous City turn to be any other then a Monſter of many Heads, when its renowned Government, which is now ſo fully eſtabliſhed, and ſo bravely digeſted into a fit Method and Order; ſhall again be thrown into its old <hi>Chaos,</hi> by confuſedly thruſting it into the hands of the Multitude, whom a great Emper<g ref="char:EOLhyphen"/>our
+<pb facs="tcp:158465:4"/>long agoe compared to fire and water, that are good Servants, but bad Maſters.</p>
+            <p>
+               <hi>My Lord,</hi> I doe not any whit hereby charge or aſperſe thoſe renowned Members of your own Body, the <hi>Commoners</hi> that ſit below you: and with<g ref="char:EOLhyphen"/>out whom you your ſelves are able to do nothing to any purpoſe: But as it is in the Naturall body, ſo I would have it in this body Politique; I would not be cenſured to derogate from the Hand or Foot, becauſe I do not grant them to be the Head: I ſhall in this inſuing Treatiſe give them all right that belongs to them; indevouring only to with<g ref="char:EOLhyphen"/>hold both you and them from uſurpation: In which Golden mean to preſerve both them and you, and this City from all factions and fractions which turbulent ſpirits may breed among you: it was the only Argument mov'd me now to ſet pen to paper, and is all that is deſired or intended by him who is</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips, Worſhips, and this Cities; in all humble Service,</hi> Ire. Lyfim.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:158465:5"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou mayſt for ought I know bee a Party ingaged on one ſide or other in this Quarrell, and ſo unfit to bee a Judge: thou mayſt perhaps look upon this Book with a pleaſing eye, as wiſhing well to the Cauſe that it preſumes to vindicate: or thou mayſt perhaps condemn it before thou haſt perus'd it: as choo<g ref="char:EOLhyphen"/>ſing rather to have the Truth ſilenc'd, then that it ſhould ſpeak what is not pleaſing unto thee: Or thou mayſt be a third man, a man unconcern'd on either part, and ſo impartiall.</p>
+            <p>Which of theſe ſoever thou art, let mee give thee this caution: Let Truth bee the Mine thou dig'st for in it, the Treaſure thou ſeekest, the mark at which thou aimeſt: Read it without Prejudice, and judge it as thou find'ſt it.</p>
+            <p>I am not the City Advocate to plead their Rights; rather their Champion to defend them from wrong: I take not upon mee to argue their Cauſe, but to anſwer Arguments already made againſt them: <g ref="char:V">Ʋ</g>nder that Notion conſider mee, compare mee, and cenſure mee: only ſhut not thy Eyes againſt any cleare light that ſhall appeare in mee, ſince to bee wilfully ignorant, ought to bee reckoned among ſins of knowledge.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:158465:5"/>
+            <head>Bellamius Enervatus: OR, An Anſwer to a Plea for the Commonalty of LONDON.</head>
+            <div type="proem">
+               <head>And firſt to the Proem.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He diſcontent that breeds in ſome kinde of ſpi<g ref="char:EOLhyphen"/>rits, becauſe they cannot doe what they would, makes them next to doe they cannot tell what.</p>
+               <p>The occaſion of this Mr. <hi>Bellamies</hi> ſpeech; firſt ſpoken, ſince publiſhed, to throw up all en<g ref="char:EOLhyphen"/>cloſures of Order in the City of <hi>London,</hi> by ſhuffling the Cards, and taking away all notes of diſtinction between the Head and Members thereof; did not principally ariſe from any juſt claime that hee could make to the Privi<g ref="char:EOLhyphen"/>ledges which he pleades for, but <hi>(as himſelf confeſſeth)</hi> hee was put upon this motion becauſe hee had been croſt by the <hi>Lord Major</hi> and <hi>Aldermen</hi> a little before in a former mo<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Hee tels you that upon the <hi>16<hi rend="sup">th</hi> of January laſt he made a motion that a certain obſtruction in the Court of Com<g ref="char:EOLhyphen"/>mon-Counſell might be removed; which was cauſed by the Lord Majors</hi> uſing his Priviledge of <hi>taking up the
+<pb n="2" facs="tcp:158465:6"/>Sword and ſo diſſolving the Court</hi> for the preſent, when hee ſaw good; <hi>without their conſents.</hi>
+               </p>
+               <p>
+                  <hi>The redreſſe whereof</hi> (hee tels you) <hi>he preſt with much earneſtneſſe,</hi> and <hi>Prometheus-like</hi> ſtole fire from heaven to quicken this creature of his own making, for <hi>he us'd the Arguments of the Lords and Commons in Parliament, made to the King for the continuance of their ſitting as long as they ſaw good in Parliament,</hi> to the <hi>Lord Major</hi> for the continuance of his ſitting, as long as they ſaw good in <hi>Common-Counſell.</hi>
+               </p>
+               <p>But this not taking ſuch offect as hee hoped for, was yet the Spur that prickt him forward upon another deſigne: that ſince hee could not court them out of their Priviledges, hee would labour to force them: <hi>And</hi>
+                  <note n="*" place="margin">Read his own Proem at the latter end,</note> 
+                  <hi>thereupon it was that he in<g ref="char:EOLhyphen"/>devoured, 1. By the Charters of the City; 2. By Re<g ref="char:EOLhyphen"/>cords witneſſing their power in the practiſe of them; 3. By Equity and Reaſon;</hi> to extend the <hi>Commoners</hi> Rights a little further: and ſince it could not bee yeelded that the <hi>Lord Major</hi> in <hi>Common-Counſell</hi> muſt ſit ſtill as long as they liſt, they will now both make him ſit when they liſt; and (which is worſe) Act what they liſt.</p>
+               <p>Throughout which paſſage, give mee leave to make theſe Ob<g ref="char:EOLhyphen"/>ſervations:
+<list>
+                     <item>Firſt, what Equity there was in his firſt motion upon the ſixteenth of <hi>January.</hi>
+                     </item>
+                     <item>Secondly, What were the Arguments that hee backt it with.</item>
+                     <item>Thirdly, What reaſon there was that upon the deniall of that firſt motion hee ſhould now fall upon this.</item>
+                  </list>
+               </p>
+               <p>For his firſt motion upon the ſixteenth of <hi>Janary</hi> it firſt argues a great deale of weakneſſe in the <hi>Lord Major</hi> that he doth not know when to ſit ſtill, and when to riſe for the Cities good, unleſſe Mr. <hi>Bellamy</hi> tell him.</p>
+               <p>Secondly, it much aſperſeth the <hi>Lord Majors</hi> integrity, that
+<pb n="3" facs="tcp:158465:6"/>hee would not of himſelf ſit as long to do the City or Kingdom ſervice, as Mr. <hi>Bellamy</hi> would have him.</p>
+               <p>Thirdly, it wreſts the <hi>Sword</hi> it ſelf out of the <hi>Lord Ma<g ref="char:EOLhyphen"/>jors hand,</hi> it being given him to diſpoſe according to Law in his own beſt judgement: which notwithſtanding muſt now (during the time that a <hi>Common-Counſell</hi> will ſit,) though it bee all day and all night, and never ſo much occaſion to uſe it in the City) bee ſurrendred (as it were) into the hands of Mr. <hi>Bellamy,</hi> till hee pleaſe that the <hi>Lord Major</hi> ſhall take it up againe.</p>
+               <p>As touching the Arguments brought by Mr. <hi>Bellamy</hi> to back this motion, there are two things in them conſiderable: <hi>1.</hi> whoſe they are: <hi>2.</hi> what they are.</p>
+               <p>Firſt, Whoſe they are: hee tels you <hi>they are the ſame which the Lords and Commons uſed to his Majeſty for the con<g ref="char:EOLhyphen"/>tinuance of this preſent Parliament: all that is his in them, is the Application:</hi> to fit thoſe Arguments which were made by them for the Kingdom, to ſerve his turn for the City.</p>
+               <p>For Anſwer to which (if I dare truſt my memory) I ſhall acquaint you with an old ſtory of a certain Recorder of your own City, who had a Malefactor indicted and convicted of murder before him, the Malefactor was called <hi>Skillman:</hi> the Recorder being ſomewhat facetious hearing ſuch a name, thus quibbled upon it: Thy name (ſaith hee) to the Priſoner is <hi>Skillman;</hi> take away S and it is <hi>Killman,</hi> take away K and it is <hi>Illman;</hi> thou haſt an ill name which may half hang thee, and an ill cauſe which will quite hang thee.</p>
+               <p>This ſudden flaſh being favourably ſmiled upon by the Court; a certain Magiſtrate of the Countrey took ſpeciall notice of: put it up in his Table-book, and the next time hee ſate upon the Bench, made this uſe of it: There was a malefactor brought before him, and convicted for ſtealing a horſe, his name was <hi>Johnſon:</hi> Hee preſently asks him his name, the other anſwers
+<pb n="4" facs="tcp:158465:7"/>his name was <hi>Johnſon. Johnſon</hi> (ſaith hee) take away S, and it is <hi>Killman,</hi> take away K, and it is <hi>Illman,</hi> thou haſt an ill name, which may half hang thee, and an ill cauſe which will quite hang thee.</p>
+               <p>If this were but a Fable, the Morall is good: I will make no other Application of it to Mr. <hi>Bellamy,</hi> but thus: to let him know that all Arguments will not ſerve at all turns: nor is it any Plea for him that hee hath brought the Arguments of the <hi>Lords and Commons,</hi> unleſſe hee can make them as fit for himſelf as they made them for themſelves: and therefore we will look no further whoſe Arguments they are, but wee will come in the next place to ſee what they are.</p>
+               <p>And here hee tels you; the particulars which hee inſiſted upon were theſe three: <hi>1. the raiſing of Monies for the</hi>
+                  <list>
+                     <item>
+                        <hi>Kingdomes</hi>
+                     </item>
+                     <item>
+                        <hi>Cities</hi>
+                     </item>
+                  </list> 
+                  <hi>occaſions. 2. The Repayment of thoſe mo<g ref="char:EOLhyphen"/>nies ſo raiſed by the</hi>
+                  <list>
+                     <item>
+                        <hi>Parliament</hi>
+                     </item>
+                     <item>
+                        <hi>Common-Counſell</hi>
+                     </item>
+                  </list> 
+                  <hi>3. The redreſſe of the grievances of the</hi>
+                  <list>
+                     <item>
+                        <hi>City</hi>
+                     </item>
+                     <item>
+                        <hi>Kingdome</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Theſe three</hi> (hee tels you) <hi>the Common-Counſell can<g ref="char:EOLhyphen"/>not effect</hi> as they ſhould doe without the power of continuing together, till ſuch <hi>time as theſe be throughly conſidered upon.</hi>
+               </p>
+               <p>All which wee eaſily grant, but would faine know how theſe Arguments back his Motion; hee brings us Arguments to prove why <hi>the Common-Counſell ſhould ſit, till the ne<g ref="char:EOLhyphen"/>ceſſary buſineſſe of the City bee effected;</hi> and therefore makes a motion that they may ſit as long as they themſelves liſt; whereby they doe not urge for a power to ſit while the ne<g ref="char:EOLhyphen"/>ceſſary buſineſſe of the City is effected: but while ſuch trouble-Courts as himſelf ſhall pleaſe to tire out the <hi>Lord Major</hi> and <hi>Aldermen</hi> with as impertinent ſpeeches as hee hath done here with one of almoſt an houre long, to no purpoſe at all, unleſſe it bee to make diviſions.</p>
+               <p>Dare you deny that there wants either ſo much wiſdome in
+<pb n="5" facs="tcp:158465:7"/>the <hi>Lord Major</hi> and <hi>Aldermen,</hi> that they know not when the <hi>Court</hi> is full of neceſſary buſineſſe, and ſo requires their ſtay: or when the <hi>Court</hi> is burdened with Impertinent, long<g ref="char:EOLhyphen"/>winded, ſenſeleſſe Arguments, and is therefore fit to bee diſſol<g ref="char:EOLhyphen"/>ved, or adjourned? Or will you tye the <hi>Lord Major</hi> and <hi>Al<g ref="char:EOLhyphen"/>dermen</hi> (though never ſo weary, by reaſon of their great age, and perhaps other bodily infirmities) not to riſe from <hi>Com<g ref="char:EOLhyphen"/>mon-Counſell,</hi> till you will give him leave? unleſſe you will doe this, your Arguments may indeed make good, that it is fit the <hi>Lord Major</hi> ſhould ſee neceſsary buſineſſe effected for the Cities good in convenient time, but can never prove, that hee muſt therefore ſit as long as you would have him.</p>
+               <p>I come now to the laſt Obſervation: which in the third place I muſt ſpeak unto: and that is this: What reaſon Mr. <hi>Bella<g ref="char:EOLhyphen"/>my</hi> had, that becauſe this his firſt unreaſonable motion took no effect, hee ſhould thereupon indevour to preſſe a ſecond, of farre worſe conſequence then the former. Which was (as I conceive) just none at all: that becauſe my <hi>Lord Ma<g ref="char:EOLhyphen"/>jor</hi> denyed him this motion, hee muſt therefore in the next preſſe for more.</p>
+               <p>Me thinks Mr. <hi>Bellamy,</hi> it had been enough for you to have ſaid, My <hi>Lord Major</hi> was to blame, that would not hearken to ſo wiſe a man, and a motion ſo like himſelfe: nor throw the <hi>City Charters</hi> at your feet to bee mended: he was an obſtinate, perverſe, untoward man to maintain <hi>his</hi> and the <hi>City Priviledges,</hi> when Mr. <hi>Bellamy</hi> had mov'd to have them given away.</p>
+               <p>But for you upon the deny all of your firſt motion, preſently to fall upon a ſecond farre more deſperate; it ſavours nothing in mine eye, but a thirſt of revenge, that becauſe my <hi>Lord Major</hi> would not give you his <hi>Sword,</hi> to keep by you as long as you pleaſed: you would therefore take it from him and cut out his tongue with it: by denying him and his Brethren thoſe
+<pb n="6" facs="tcp:158465:8"/>negative voyces, which is indeed their Right and the Cities Glory: and becauſe hee would not make your will Law; you would finde out a Law to take away his will; and force the head onely to act at the diſcretion of the members: as appears by your claime to an abſolute power, which the <hi>Commoners</hi> themſelves you ſay are inveſted with, of making <hi>City Laws,</hi> and chooſing <hi>City Officers,</hi> whether the <hi>Lord Major</hi> and <hi>Aldermen</hi> will or no, if you bee more <hi>per poll</hi> then they: the which you undertake in your <hi>Plea for the Commonalty of London,</hi> fully to maintain, and which I am now underta<g ref="char:EOLhyphen"/>king as fully as I can to Anſwer.</p>
+            </div>
+            <div type="body_of_book">
+               <pb n="7" facs="tcp:158465:8"/>
+               <head>A FVLL ANSVVER TO THE Plea for the Commonalty of LONDON.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His ſnarling Pamphlet <hi>(Cerberus-like)</hi> barks with three heads.</p>
+               <p>Hee tels you p. 2. that hee will for me<g ref="char:EOLhyphen"/>thods ſake, deliver, what in this hee hath to ſpeak under three heads: and they are theſe.</p>
+               <p>Firſt, <hi>That this City by thoſe favours and boun<g ref="char:EOLhyphen"/>ties which wee and our Predeceſſors have received from ſundry royall Kings of</hi> England, <hi>is now in<g ref="char:EOLhyphen"/>veſted with many excellent immunities, franchiſes, and priviledges.</hi>
+               </p>
+               <p>Secondly, <hi>Who are the proper recipients of thoſe favours, or to whom the power of uſing and maintaining thoſe favours, and Priviledges gran<g ref="char:EOLhyphen"/>ted to us by our royall Kings of</hi> England <hi>is committed.</hi>
+               </p>
+               <p>Thirdly, <hi>The Reaſons or Arguments wherefore thoſe perſons unto whom this power is committed, ſhould carefully and conſcionably maintain and uſe thoſe priviledges with which they are intruſted.</hi>
+               </p>
+               <p>In the firſt of theſe hee ſpends much time and words, and hath hard travell in Records to prove what no body denies; and is at
+<pb n="8" facs="tcp:158465:9"/>laſt delivered of nothing but winde: He ſpeaks no more but what wee know, and acknowledge, and thankfully (I hope) imbrace as wee ought to do.</p>
+               <p>And truely, I ſhould not ſpend any time to examine this foun<g ref="char:EOLhyphen"/>dation, there is ſo little in it, that hee can build any thing upon; onely I remember what is taught mee by the wiſeſt of Kings:<note n="*" place="margin">Prov. 26.5.</note> for which cauſe I ſhall trace him ſtep by ſtep; to ſhew what unjuſtly hee doth, and what juſtly I may pick out of theſe priviledges.</p>
+               <p>Hee tels you for proofe of his firſt head: <hi>Hee hath a large and pleaſant field to walk in:</hi> I grant it is a large and pleaſant field enough, if men could think it ſo that walk in it: but it appears it is not large enough for him, which makes him at this time throw up Incloſures, and by intrenching upon the Rights of the <hi>Lord Major</hi> and <hi>Aldermen,</hi> ſtrive to make it larger; but I ſhall deſire him to remember, <hi>Curſed is hee that removeth his Neighbours Land<g ref="char:EOLhyphen"/>mark.</hi>
+               </p>
+               <p>And now hee complements out theſe Priviledges, both with the Princes that have conferred them, and the City that injoyes them, <hi>not knowing</hi> (ſaith hee) <hi>whether more to magnifie the favour of the one, or the happineſſe of the other:</hi> But here hee tels you, (<note n="*" place="margin">Men do not doe in a large field, as they do in a curious gar<g ref="char:EOLhyphen"/>den.</note> having ſo large a field to walk in) <hi>hee muſt doe men uſe to doe in a curi<g ref="char:EOLhyphen"/>ous garden; pluck here a flower, and there an herbe,</hi> (which is an old caſt <hi>ſimile,</hi> threed bare in his great grand-Fathers dayes) <hi>and when hee hath done the beſt hee can, hee muſt leave many behinde him for want of time and skill:</hi> which I confeſſe I much wonder at, that want of time and skill ſhould make him leave his gathering of flowers, who in ſo bad a time, and with ſo little skill hath notwithſtanding ventured to <hi>binde</hi> up ſuch a bundle of weeds as hee hath in this fardell.</p>
+               <p>And theſe flowers (hee ſaith) <hi>hee muſt leave behinde him for ſome more able hand to gather them:</hi> I ſcarce beleeve hee thinks there is an abler hand in <hi>England</hi> then his own, though hee would have you bear him witneſſe here of a great deale of modeſty that hee doth confeſſe it.</p>
+               <p>Hee tels you <hi>hee can no way eaſt his eye, but hee beholds many wit<g ref="char:EOLhyphen"/>neſſes of the great Priviledges of this City: as firſt that they may ſit in the capacity of a Common-Counſell;</hi> which is a great Priviledge (I confeſſe) but not big enough for him: unleſſe hee and his Bre<g ref="char:EOLhyphen"/>thren
+<pb n="9" facs="tcp:158465:9"/>the <hi>Commoners</hi> alone may ſit in the capacity of an abſolute Court, not at all regarding the preſence of a <hi>Lord Major</hi> and <hi>Al<g ref="char:EOLhyphen"/>dermen,</hi> or at beſt placing them but for Cyphers there.</p>
+               <p>Hee acknowledgeth alſo the <hi>Sword (that Emblem of Authority) which is carryed before the</hi> Lord Major, <hi>is another Argument to prove the power of the</hi> Lord Major; <hi>and therein the power of the City:</hi> but I muſt make bold here to put him in minde that if the power of the City ſubſiſt in the power of the <hi>Lord Major,</hi> then to take away the power of a Negative voyce in <hi>Common-Counſell,</hi> as alſo the power of taking up the <hi>Sword</hi> when hee ſhall ſee time, from the <hi>Lord Major;</hi> is even to take away the power of the City, which by his own confeſſion is placed in the head thereof, the <hi>Lord Ma<g ref="char:EOLhyphen"/>jor.</hi>
+               </p>
+               <p>Hee ſhews you next <hi>what London hath anciently been commended for: and ſummes it all up in Sir</hi> Edward Cooks <hi>words; who cals it the Chamber of the King, the Heart of the Common-wealth, the Epitome of the Kingdome.</hi>
+               </p>
+               <p>All this wee grant, and bleſſe God for; onely wee deſire that this place which hee cals the heart of the Common-wealth, may never bee ſick at the heart of thoſe diſeaſes and diſtempers which ſuch members thereof as himſelf, ſtrive to breed, and to cheriſh in it.</p>
+               <p>But now hee <hi>comes to prove his Proofes: to wit, that they enjoy theſe their Priviledges,</hi> de Jure, <hi>as given and beſtowed on them, not uſurped by them; and thoſe priviledges hee tels you are theſe two:</hi>
+                  <list>
+                     <item>Firſt, <hi>To have the power to chooſe their own chiefe Governour, and ſubordinate Officers among themſelves.</hi>
+                     </item>
+                     <item>Secondly, <hi>To have alſo the power to make ſuch Laws, which are or ſhall bee for their own welfare and beſt accommodation.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>For proofe of the firſt of theſe (which is the Cities power in chooſing their own chiefe Governour, and ſubordinate Officers among themſelves) hee produceth many Charters <hi>granted in the time of</hi> Richard <hi>the firſt, King</hi> John, Edward <hi>the ſecond, and</hi> Hen<g ref="char:EOLhyphen"/>ry <hi>the eighth,</hi> as you may ſee in his book at large.</p>
+               <p>I muſt confeſſe it is a fine and eaſie thing to prove what no body denies: onely let mee obſerve thus much from his proofes, if the City can prove they have a power by Charter to chooſe their own chiefe Governour, the <hi>Lord Major,</hi> as I do not deny but they may
+<pb n="10" facs="tcp:158465:10"/>yet ought they by that Charter, and are bound when they doe chooſe, to chooſe a <hi>Lord Major</hi> indeed, and not a Sword-bearer in ſtead of a <hi>Lord Major.</hi> I ſay they ought to chooſe themſelves a <hi>Lord Major,</hi> and therefore to grant him the power of a <hi>Lord Major</hi> to diſpoſe of the <hi>Sword</hi> that is given him, according to his beſt ability, and underſtanding for the good of the City: but not to chooſe him to bee no more then the City Sword-bearer, to lay down his Sword in <hi>Common-Counſell</hi> when they liſt, and not to take it up againe till they will give him leave, as Mr. <hi>Bellamy</hi> would have it to bee, although they ſhould injoyn him to ſit all day or all night, hee being never ſo old, weak, and unable to ſit, or never ſo much tyred with impertinences, and ſuch frothy ſpeeches as this is: or though hee hath never ſo much neceſſary occaſion to uſe the ſame Sword at the ſame time, either in the Court of <hi>Alder<g ref="char:EOLhyphen"/>men,</hi> the ſeat of <hi>Juſtice,</hi> or elſe-where, for the neceſſary good, and ſafety of the City.</p>
+               <p>The next Priviledge of the City that hee goes about to prove is: <hi>that they have alſo the power to make ſuch Laws, as ſhall bee for their own welfare and beſt accommodation.</hi>
+               </p>
+               <p>And this hee proves by the Charter of <hi>Edward</hi> the third, in the fifteenth year of his Reigne: where indeed hee draws a knife to cut his own throat: for I doe not know how hee could have pickt out any Charter, which doth inveſt the <hi>Lord Major</hi> and <hi>Aldermen</hi> with a negative voyce, and put the power of making Laws into their hands more then this Charter of <hi>Edward</hi> the third.</p>
+               <p>I will relate the Charter it ſelf in Mr. <hi>Bellamies</hi> own words, it runs thus.</p>
+               <p>
+                  <hi>Wee have granted further, for us and our Heires, and by this our preſent Charter confirmed to the</hi> Major <hi>and</hi> Aldermen <hi>of the City a<g ref="char:EOLhyphen"/>foreſaid; That if any Cuſtomes in the ſaid City, hither to obtained and uſed, bee in any part difficult or defective, or any thing in the ſame newly happening, where before there was no remedy ordained, and have need of amending, the ſame</hi> Major <hi>and</hi> Aldermen, <hi>and their Suc<g ref="char:EOLhyphen"/>ceſſed with the aſſent of the</hi> Commonalty <hi>of the ſame City, may adde <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ordaine a remedy meet, faithfull, and conſonant to Reaſon, for the common pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Citizens of the ſame City, as oft and at ſuch time as to them ſhall bee thought expedient.</hi>
+               </p>
+               <p>
+                  <pb n="11" facs="tcp:158465:10"/>Wee will conſider in this Charter but two things:
+<list>
+                     <item>Firſt, to whom the Charter itſelfe is confirmed.</item>
+                     <item>Secondly, how the power of this Charter muſt bee uſed.</item>
+                  </list>
+               </p>
+               <p>Firſt, to whom it is confirmed: it ſpeaks plainly that <hi>it is gran<g ref="char:EOLhyphen"/>ted to the</hi> Lord Major <hi>and</hi> Aldermen <hi>of the City,</hi> without ſo much as naming any intereſt that the <hi>Commons</hi> have in the grant of it.</p>
+               <p>Whence I conclude, that the <hi>Lord Major</hi> and <hi>Aldermen</hi> of the <hi>City of London,</hi> were thought fit by the ſame <hi>King</hi> that granted this Charter, to bee intruſted with the abſolute power of the Char<g ref="char:EOLhyphen"/>ter to uſe it for the Cities Good: even as Counſell is given to the Head, to uſe for the benefit of the whole body.</p>
+               <p>Secondly, Wee are to obſerve how the power of this Charter, which is the power of making Laws, muſt bee uſed.</p>
+               <p>Read the words of the Charter, and they tell you thus: <hi>The</hi> Lord Major, Aldermen, <hi>and their Succeſſors, have a power thereby given them, to make or mend what Laws they ſee neceſſary with the aſ<g ref="char:EOLhyphen"/>ſent of the</hi> Commoners.</p>
+               <p>From whence it will neceſſarily follow, that the Active power of making Laws, (nay of propoſing Laws otherwiſe then by way of <hi>Counſell</hi>) reſts wholly in the hands of the <hi>Lord Major,</hi> and <hi>Al<g ref="char:EOLhyphen"/>dermen:</hi> and no more power is left in the <hi>Commoners,</hi> but to aſſent or to diſſent from thoſe Laws, that ſhall ſeem good to bee made by the <hi>Lord Major</hi> and <hi>Aldermen,</hi> and by their aſſent to ratifie, or by their diſſent to hinder them.</p>
+               <p>So that now where lies the Negative voyce?</p>
+               <p>If the <hi>Commoners</hi> in regard of the greatneſſe of their number ſhall out-vote the <hi>Lord Major</hi> and <hi>Aldermen</hi> (which at all times they eaſily may) and thereupon undertake to make or mend a Law: then is the very Charter it ſelf abſolutely and apparently broken.</p>
+               <p>For it doth not ſay, wee have granted to the <hi>Commons,</hi> that by the conſent of the greater part of the <hi>Common-Councell:</hi> nor yet by the conſent of the <hi>Lord Major</hi> and <hi>Aldermen,</hi> (much leſſe with<g ref="char:EOLhyphen"/>out their conſent) that they (to wit the <hi>Commoners</hi>) ſhall have power to make or mend a Law: But it faith, wee have granted to the <hi>Lord Major</hi> and <hi>Aldermen</hi> to make the Law by conſent of the <hi>Commoners.</hi>
+               </p>
+               <p>So that it muſt needs follow: that the <hi>Lord Major</hi> and <hi>Alder<g ref="char:EOLhyphen"/>men</hi>
+                  <pb n="12" facs="tcp:158465:11"/>muſt either uſe their power to the making of a Law, or elſe let the <hi>Commons</hi> conſent what they will, though they have a pow<g ref="char:EOLhyphen"/>er to conſent, they have no power by conſenting to make a Law: And I would faine know whether that Law can bee ſaid truely to bee made by the <hi>Lord Major, Aldermen,</hi> and their <hi>Succeſſors:</hi> which is onely carryed by the Plurality of the voyces of the <hi>Com<g ref="char:EOLhyphen"/>moners,</hi> and thereupon made, though contrary to the conſent of the <hi>Lord Major</hi> and <hi>Aldermen,</hi> as Mr. <hi>Bellamy</hi> would have them to bee: and I would fain know whether the proper meaning of this Charter muſt not needs bee thus: that the <hi>Lord Major</hi> and <hi>Aldermen</hi> (who being choſen by the City) are intruſted with the care and charge of the welfare of the ſame) ſhall have there<g ref="char:EOLhyphen"/>fore power to make or mend Laws for the Cities good: onely this muſt bee done with the <hi>Commons</hi> conſent: that is, the Laws that are propoſed by the <hi>Lord Major</hi> and <hi>Aldermen</hi> ſhall not paſſe without the conſent of the major part of the <hi>Commonalty:</hi> which in ſuch caſes are alwaies put for the whole: And this is all the Pri<g ref="char:EOLhyphen"/>viledge the Commoners can glean out of this Charter.</p>
+               <p>I confeſſe I do not ſee that wee need any more to prove the ne<g ref="char:EOLhyphen"/>gative voyces of the <hi>Lord Major</hi> and <hi>Aldermen,</hi> that they do of right and neceſſity belong to them, then this very Charter; which, Firſt, <hi>is granted to them alone,</hi> without ſo much as naming the <hi>Commons:</hi> and ſecondly, <hi>placeth the power of making or mending a Law in them onely, giving the</hi> Commoners <hi>no more power then is now granted them:</hi> which is either to aſſent or diſſent, when a Law is propoſed, as I ſaid before.</p>
+               <p>I conclude this firſt head in Mr. <hi>Bellamies</hi> own words: <hi>When I ſeriouſly conſider what Priviledges are thus granted to this City, I know nothing wanting to them, if they bee not wanting to themſelves to make them happy:</hi> that is, if this power of making or mending Laws, thus placed by Charter in the hands of thoſe, who are choſen by, and intruſted with the care of the City, bee ſtill con<g ref="char:EOLhyphen"/>tinued in its own proper place: But if the <hi>Commoners</hi> will uſurpe this power (contrary to Charter) into their owne hands; and make their head, a head of clouts, if they then ſuffer at the preſent, by having ſuch Laws made as ſhall bee ſet up by faction, not wiſdome, and if they ſuffer hereafter by the ſeverity of fu<g ref="char:EOLhyphen"/>ture Princes, which may perhaps deny them the lawfull uſe of
+<pb n="13" facs="tcp:158465:11" rendition="simple:additions"/>thoſe Charters which they have thus abuſed, they may thank themſelves, and ſuch inſtruments of their ſuffering, as Mr. <hi>Bella<g ref="char:EOLhyphen"/>my</hi> is; and I <hi>therefore pray God give you grace</hi> (as Mr. <hi>Bellamy</hi> ſaith) <hi>wiſely and humbly to make uſe of them.</hi>
+               </p>
+               <p>I come now to the ſecond head, or to the ſecond thing handled, which is this: <hi>Who are the proper Recipients of thoſe priviledges, or to whom the power of uſing and maintaining thoſe priviledges and fa<g ref="char:EOLhyphen"/>vours, granted to us by our Royall Kings of</hi> England, <hi>is commit<g ref="char:EOLhyphen"/>ted.</hi>
+               </p>
+               <p>And in this Head hee tells you hee hath two things to ſpeak to.</p>
+               <list>
+                  <item>1. <hi>To ſhew to whom theſe priviledges have been granted.</hi>
+                  </item>
+                  <item>2. <hi>To prove by whom theſe priviledges have been practiſed.</hi>
+                  </item>
+               </list>
+               <p>And here I muſt tell you this Argument deales like <hi>Hocus Po<g ref="char:EOLhyphen"/>cus, that ſwallows hurds and ſpits fire,</hi> it repeats of the former Char<g ref="char:EOLhyphen"/>ters, enough to choake it ſelf, but that it ſpits deſperate concluſi<g ref="char:EOLhyphen"/>ons from them.</p>
+               <p>Deſperate concluſions I call them in two reſpects: firſt, be<g ref="char:EOLhyphen"/>cauſe they are contradictory: ſecondly, becauſe they are falſe.</p>
+               <p>Firſt, I ſay, they are contradictory, hee contradicteth himſelf in them; hee tels you p. 9. in theſe words. <hi>If you take a Survey of all the Charters granted to this City, ſince the date of that grant of King</hi> John <hi>to this day, which are very many, they all run thus, or to this effect: To the</hi> Major, Aldermen and Commonalty <hi>of the City of</hi> London; <hi>or, To the</hi> Major and Commonalty <hi>of the City of</hi> London: and yet in the very ſame page, nay the ſame clauſe of that ſentence, reciting the Charter of <hi>Edward</hi> the ſecond, in the twelfth of his Reigne hee tels you, <hi>That that Charter leaves a certain power in making, and amoving Sheriffes, and ſome other City Officers, wholly to the pleaſure of the</hi> Commonalty, <hi>without any refe<g ref="char:EOLhyphen"/>rence to the</hi> Major and Aldermen.</p>
+               <p>So that you ſee how plainly hee contradicts himſelfe: hee tels you firſt, <hi>That all Charters that ever were made run thus: viz. To the</hi> Major, Aldermen and Commonalty. And yet hee recites a Charter in the very next words, where hee labours to exclude both the <hi>Major and Aldermen.</hi>
+               </p>
+               <p>In the next place I am to prove his Concluſions drawn from theſe Charters are falſe: which I ſhall do by proving two things.</p>
+               <p>
+                  <pb n="14" facs="tcp:158465:12" rendition="simple:additions"/>Firſt, That hee falſely interprets the Charters themſelves.</p>
+               <p>Secondly, Hee argues falſely from his owne Interpretations.</p>
+               <p>Firſt, Hee falſely interprets the Charters recited by himſelfe: as <hi>In that Charter of</hi> Edward <hi>the ſecond,</hi> which hee ſaith is <hi>made to the</hi> Commons <hi>onely, without reference to the</hi> Major and Aldermen: his Interpretation there is falſe, for that very Charter cannot but have a reference as well to them as to the <hi>Commoners.</hi>
+               </p>
+               <p>And that appeares by the words of the Charter, which are theſe: <hi>That the</hi> Major and Sheriffes <hi>may bee choſen by the</hi> Citizens <hi>of the ſaid City:</hi> as Mr. <hi>Bellamy</hi> relates the Charter in his Book, p. 5. the latter end: Now it cannot bee denyed but the <hi>Major and Aldermen</hi> are Citizens of the City of <hi>London,</hi> and the principall of them. as Mr. <hi>Bellamy</hi> confeſſeth; if therefore the power of that Election bee granted in generall termes to the Citizens of <hi>London,</hi> though the <hi>Lord Major and Aldermen</hi> bee not expreſt in that Char<g ref="char:EOLhyphen"/>ter, (as there was no need they ſhould) yet they are neceſſarily included, becauſe they are Citizens, and ſo that very Charter (contrary to Mr. <hi>Bellamies</hi> opinion) hath reference to the <hi>Major and Aldermen.</hi>
+               </p>
+               <p>Secondly, Hee argues falſely from his own interpretations; for Mr. <hi>Bellamy</hi> from this Charter thus interpreted, argues, or rather concludes two things in the very next words.</p>
+               <p>Firſt, <hi>That it is cleare that in the City Priviledges, the</hi> Commoners <hi>have an equall ſhare with the</hi> Lord Major and Aldermen.</p>
+               <p>Secondly, <hi>That if there bee any difference, the advantage is to the</hi> Commons.</p>
+               <p>Let us ſee how theſe will follow:</p>
+               <p>If wee ſhould take it for granted that in chooſing ſome City Officers the <hi>Lord Major and Aldermen</hi> are by Charter excluded, (which notwithſtanding is abſolutely falſe, and can never bee proved,) as I have already ſhewed) yet if it were true, a very lit<g ref="char:EOLhyphen"/>tle Logick will tell us,
+<q>Syllogizari non est ex particulari.</q>
+               </p>
+               <p>It is no good Argument that ſhall conclude, that becauſe the <hi>Commoners</hi> have a right to this Priviledge by Charter; (which is onely the chooſing of the <hi>Major, Sheriffes,</hi> and ſome <hi>City Officers,</hi> that therefore they have a right to all) nor will it follow that becauſe the <hi>Lord Major and Aldermen</hi> have not a negative voyee
+<pb n="15" facs="tcp:158465:12"/>in the chooſing of ſome <hi>City Officers,</hi> but the <hi>Commons</hi> have a pow<g ref="char:EOLhyphen"/>er in themſelves to do it without them: that therefore the <hi>Lord Major and Aldermen</hi> have no negative voyce in the making of Lawes, when the Charter of <hi>Edward</hi> the third plainly gives it them.</p>
+               <p>I ſhall deſire you to take a little notice what a groſſe ſlur hee puts upon you here.</p>
+               <p>Firſt, Hee tels you that all the Charters run thus: <hi>To the Major, Aldermen and Commons.</hi>
+               </p>
+               <p>Secondly, Hee brings you a Charter cleane contrary in the next words, which hee takes <hi>to bee made only to the</hi> Commons <hi>with<g ref="char:EOLhyphen"/>out reference to the</hi> Major and Aldermen.</p>
+               <p>Thirdly, Hee grounds from that Charter, and all the reſt, 1. An <hi>equality that is between the</hi> Major, Aldermen and Commons. 2. <hi>If there bee any difference, the advantage is to the</hi> Commons.</p>
+               <p>Firſt, Hee ſaith the <hi>Commons have an equall ſhare with the</hi> Lord Major and Aldermen, <hi>in</hi> City Priviledges, <hi>becauſe all Charters joyn them.</hi>
+               </p>
+               <p>Secondly, <hi>They have an advantage, if there bee any difference,</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>that one Charter of</hi> Edward <hi>the ſecond is made</hi> (ſaith hee) <hi>onely to the</hi> Commons, <hi>without any reference to the</hi> Major and Alder<g ref="char:EOLhyphen"/>men.</p>
+               <p>Both which I thus diſprove: firſt, becauſe all the Charters, or any of them do not make them equall with the <hi>Lord Major</hi> and <hi>Aldermen:</hi> ſecondly, this Charter of <hi>Edward</hi> the ſecond, gives them no advantage.</p>
+               <p>Firſt, I ſay no Charter makes them equall, which I prove two waies.</p>
+               <p>Firſt, Becauſe the Charters cannot bee ſo underſtood, as to make the <hi>Commoners</hi> equall with <hi>Lord Major</hi> and <hi>Aldermen.</hi>
+               </p>
+               <p>Secondly, The Charters themſelves expreſſe the contrary.</p>
+               <p>Firſt, The Charters cannot bee underſtood of an equality: for there is a great deale of difference in giving or granting things joyntly, and granting or giving things equally.</p>
+               <p>Things may bee given joyntly to many receivers, yet to one more, to another leſſe, but if they bee given equally, then the one hath as much ſhare as the other.</p>
+               <p>For example: in the naturall body, ſtrength is given to a Lyon,
+<pb n="16" facs="tcp:158465:13"/>and to every part of the Lyon joyntly, for hee hath ſome ſtrength in every part: but yet ſtrength in the Lyon is not given to every part of the Lyon equally, becauſe one part of him is ſtronger then another.</p>
+               <p>Againe, that may bee ſaid to bee given joyntly, in the bene<g ref="char:EOLhyphen"/>fit whereof many things have a joynt intereſt, and yet not a joynt exerciſe of the thing which is given them: thus wiſdome is gi<g ref="char:EOLhyphen"/>ven to man, and to every part of man joyntly, becauſe every part of man receives benefit by it: and yet the exerciſe of this wiſdome is onely placed in the underſtanding, to whom is committed the power and charge of benefitting all other parts of the body by that wiſdome which is onely exerciſed by the underſtanding.</p>
+               <p>In both theſe reſpects Charters may bee made, and Priviledges granted to the City joyntly, and yet not equally<g ref="char:punc">▪</g> Joyntly in the firſt ſenſe, that is, the Priviledge of making Laws, chooſing Of<g ref="char:EOLhyphen"/>ficers, or the like, may bee granted to the City joyntly, yet the <hi>Lord Major and Aldermen</hi> may have a greater power in the ma<g ref="char:EOLhyphen"/>king of Laws, and chooſing Officers, then the <hi>Commoners.</hi> Or elſe in the laſt ſenſe; Theſe Priviledges may bee conferred upon the City joyntly, and yet the acting power of them may bee committed onely to the <hi>Lord Major</hi> and <hi>Aldermen,</hi> as in the two foregoing examples plainly appeares.</p>
+               <p>And that the power of making Laws, (which is the greater of the two City Privildges) though it bee granted to the City joynt<g ref="char:EOLhyphen"/>ly, yet it is not granted to the City equally, the Charter of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the third, which I explained before, doth clearely prove and that beyond all contradiction or objection.</p>
+               <p>Thus you ſee the firſt thing is made good, <hi>viz.</hi> that none of the Charters give the <hi>Commons</hi> an equall (though a joynt) ſhare and power in City Priviledges with the <hi>Lord Major</hi> and <hi>Alder<g ref="char:EOLhyphen"/>men.</hi>
+               </p>
+               <p>Secondly, I ſhall ſhew you that the Charter of <hi>Edward</hi> the ſecond, (which Mr. <hi>Bellamy</hi> ſaith, hath reference to another of King <hi>John</hi>) in point of difference gives the <hi>Commons</hi> no advan<g ref="char:EOLhyphen"/>tage.</p>
+               <p>And that appeares by the ſame Charters, which doe conferre a power into the hands of the <hi>Citizens</hi> without any diſtinction. Whence I thus Argue: 1. The <hi>Lord Major</hi> and <hi>Aldermen</hi> are
+<pb n="17" facs="tcp:158465:13"/>Citizens, therefore they have an equall ſhare in thoſe Charters. 2. They are the principall head of the City as Mr. <hi>Bellamy</hi> con<g ref="char:EOLhyphen"/>feſſeth; therefore if there bee any difference, the advantage rather is to them.</p>
+               <p>And thus much for the firſt particular, <hi>viz.</hi> to whom theſe City priviledges have been granted. I come now to the ſecond, <hi>viz. By whom they have been practiſed.</hi>
+               </p>
+               <p>Where Mr. <hi>Bellamy</hi> tels you, <hi>they have been practiſed alwaies, as by the Charter of</hi> Edward <hi>the third they were granted, which muſt bee by the</hi> Lord Major and Aldermen, <hi>with conſent of the</hi> Commons, and for my part I deſire no more but that they may continue ſo ſtill: That in Laws propos'd in <hi>Common-councell</hi> to bee made, the <hi>Lord Major and Aldermen</hi> may have the power of making, accor<g ref="char:EOLhyphen"/>ding to that Charter, and the <hi>Commons</hi> the power of aſſenting or diſſenting and no more, which is according to the ſame Charter.</p>
+               <p>And here Mr. <hi>Bellamy</hi> gives you many needleſſe inſtances of things done by the joynt and concurrent power of the <hi>Lord Ma<g ref="char:EOLhyphen"/>jor, Aldermen and Commons in Common-Councell:</hi> all which wee know to bee true, but muſt tell him thus much, if hee would bring an inſtance for his own purpoſe, to doe himſelf any good, hee muſt ſhew us when and where any thing hath paſſed in <hi>Common-Councell,</hi> which the <hi>Lord Major and Aldermen</hi> have refu<g ref="char:EOLhyphen"/>ſed to joyn with the <hi>Commons</hi> in: For, for ſuch Acts to paſſe in <hi>Common-Councell,</hi> which the <hi>Lord Major and Aldermen</hi> think fit to joyne with the <hi>Commons</hi> in, this makes nothing againſt the negative voyces of the <hi>Lord Major</hi> and <hi>Aldermen;</hi> but if hee can give us an inſtance of an Act in <hi>Common-Councell,</hi> where a Law was made and eſtabliſhed by the ſole power of the <hi>Commoners,</hi> which though it were proteſted againſt by the <hi>Lord Major and Al<g ref="char:EOLhyphen"/>dermen,</hi> yet the <hi>Commoners</hi> by their priviledge made it paſſe: when hee ſhews us ſuch an example, hee ſaith ſomething towards the taking away of the negative voyces of the <hi>Lord Major and Al<g ref="char:EOLhyphen"/>dermen.</hi>
+               </p>
+               <p>But in the beginning of p. 11. he undertakes to prove this alſo, in theſe words:</p>
+               <p>
+                  <hi>That all the determinative, binding, and concluding power of the</hi> Court of Common-Councell <hi>is in the plurality of the votes of the</hi>
+                  <pb n="18" facs="tcp:158465:14"/>Lord Major, Aldermen, and Commons, <hi>joyntly.</hi> (By which word <hi>[joyntly]</hi> hee meanes equally, or elſe wee doe not deny it) <hi>And that the</hi> Lord Major and Aldermen <hi>have no more power of a nega<g ref="char:EOLhyphen"/>tive voyce, then as ſingle perſons, which every member of that</hi> Court <hi>hath as fully as they, if their judgements in the Debate, ſway them to the negative. And that the</hi> Aldermen <hi>alone, and by themſelves can<g ref="char:EOLhyphen"/>not hold the negative againſt the</hi> Commons <hi>affirmative.</hi>
+               </p>
+               <p>I muſt needs confeſſe Mr. <hi>Bellamy</hi> now ſpeaks to the purpoſe: if hee can but prove this, as hee ſaith hee will; hee ſhall have my conſent to have his motion very ſpeedily granted</p>
+               <p>And here, I commend him, hee takes the choyce of three wea<g ref="char:EOLhyphen"/>pons to make this good; and I am afraid all too ſhort.</p>
+               <p n="1">1. <hi>Hee proves it by practiſe.</hi> 2. <hi>By Argument.</hi> 3. <hi>By Equity and Reaſon.</hi>
+               </p>
+               <p>Firſt, <hi>By practiſe, That it hath not been ſo; which hee inſtanceth in a Caſe upon</hi> 17. of Feb. 1641. But as I told you, the whole ſpeech had three heads, I muſt tell you this part of it wants a tayle; this Example brought in by way of Argument, hath no Concluſion.</p>
+               <p>But I ſhall firſt tell you what the Argument is; ſecondly, what the Concluſion muſt bee.</p>
+               <p>The Argument lies hid in the whole ſtory, which is this, <hi>Feb.</hi> 17. 1641. <hi>A Petition was brought into the</hi> Court of Common-councell, <hi>directed onely to the</hi> Lord Major and Aldermen, <hi>and be<g ref="char:EOLhyphen"/>cauſe it was not directed to the</hi> Lord Major, Aldermen and Com<g ref="char:EOLhyphen"/>mons, <hi>in</hi> Common-Councell <hi>aſſembled, the</hi> Court <hi>refuſed to take any cognizance of it. But the then</hi> Lord Major, <hi>Sir</hi> Richard Gur<g ref="char:EOLhyphen"/>ney, <hi>with the major part of the</hi> Aldermen <hi>then preſent in that</hi> Com<g ref="char:EOLhyphen"/>mon-Councell, <hi>would have the</hi> Court <hi>to admit of that Petition; and the</hi> Court <hi>refuſing, for the reaſon aforeſaid; the</hi> Lord Major and Al<g ref="char:EOLhyphen"/>dermen <hi>conceiving,</hi> (<hi>as I ſuppoſe,</hi> (ſaith hee) <hi>that they ſhould carry it by plurality of votes:</hi>) <hi>would have the</hi> Court <hi>divide, and num<g ref="char:EOLhyphen"/>bred by the Poll: and ſo it was done, there was for the Petition, the</hi> Lord Major, <hi>ſeven</hi> Aldermen, <hi>and</hi> 61 Commoners, <hi>and againſt the Petition, five</hi> Aldermen, <hi>and</hi> 85 Commoners, <hi>and thus the mem<g ref="char:EOLhyphen"/>bers of the</hi> Court, (ſaith hee) <hi>both</hi> Aldermen and Commoners, <hi>being reckoned together by the Poll, as members of the</hi> Court, <hi>the Queſtion was determined, the Petition rejected, and the Authority of</hi> Common-Councell <hi>maintained.</hi>
+               </p>
+               <p>
+                  <pb n="19" facs="tcp:158465:14"/>This is the example that hee brings, by way of Argument, now what muſt bee the Concluſion? By the Law of Logick, that thing which at firſt hee undertakes to prove, muſt (after the Ar<g ref="char:EOLhyphen"/>gument) bee plainly in the ſame words laid down in the Con<g ref="char:EOLhyphen"/>cluſion. So then you muſt turn back to the beginning of the 11 page, to finde the Concluſion, which muſt bee thus. <hi>There<g ref="char:EOLhyphen"/>fore the</hi> Lord Major and Aldermen <hi>in this</hi> Court, <hi>have no more power of a negative voyce then as ſingle perſons, which every member of the</hi> Court <hi>hath as fully as they, if their judgement in the Debate ſway them to the Negative, and the</hi> Aldermen <hi>alone and by themſelves cannot hold the negative againſt the</hi> Commons <hi>affirmative; This by the rules of Logick, and no other muſt bee the concluſion.</hi>
+               </p>
+               <p>For Anſwer to which, give mee leave to make theſe Obſerva<g ref="char:EOLhyphen"/>tions out of Mr. <hi>Bellamies</hi> own inſtance of <hi>Feb.</hi> 17. 1641.</p>
+               <p n="1">1. What the occaſion of this difference was. 2. How it was managed.</p>
+               <p>Firſt, The occaſion of the difference was, becauſe <hi>the Petition was directed onely to the</hi> Lord Major and Aldermen, <hi>and not to the</hi> Commoners.</p>
+               <p>Secondly, How was this difference managed: firſt, <hi>The</hi> Lord Major and Aldermen <hi>mov'd to have the Petition accepted.</hi> Where I ob<g ref="char:EOLhyphen"/>ſerve, therein they did but their duty, whoſe Office it is in all ſuch caſes, to move the <hi>Commons</hi> for their aſſent to whatſoever they think fit to have paſſed by them.</p>
+               <p>Secondly, <hi>The</hi> Commons <hi>refus'd it;</hi> and herein they us'd but their Priviledge, which is, when any Law is propoſed by the <hi>Lord Major and Aldermen,</hi> to ſhew their aſſent, or diſſent.</p>
+               <p>Thirdly, Upon diſſent of the Commons, <hi>The</hi> Lord Major and Aldermen <hi>would have the</hi> Court <hi>divided, and numbred by the Poll.</hi>
+               </p>
+               <p>Where obſerve; firſt, it was the Act of the <hi>Lord Major and Aldermen,</hi> upon diſſent of the <hi>Commons,</hi> to put the buſineſſe to the Poll, ſo that it was not then done by the <hi>Commons,</hi> which is the power they plead for: ſecondly, <hi>The</hi> Lord Major and Al<g ref="char:EOLhyphen"/>dermen <hi>would have the buſineſſe</hi> put to the Poll, which ſhews it was their voluntary Act to put it to Poll, they were not conſtrain<g ref="char:EOLhyphen"/>ed by the <hi>Commons</hi> againſt their own wills to put it to the Poll.</p>
+               <p>Fourthly, Wee are here to examine the reaſons, why the <hi>Lord
+<pb n="20" facs="tcp:158465:15"/>Major and Aldermen</hi> would have the buſineſſe put to the Poll; and that Mr. <hi>Bellamy</hi> ſuppoſeth to bee, <hi>Becauſe they thought they ſhould carry it by plurality of votes.</hi>
+               </p>
+               <p>Laſtly, What was the up-ſhot of the buſineſſe: The <hi>Lord Ma<g ref="char:EOLhyphen"/>jor and Aldermen</hi> truſting to their own ſtrength, <hi>and thereupon put<g ref="char:EOLhyphen"/>ting it to the Poll, loſt it.</hi>
+               </p>
+               <p>In laying all theſe together you ſhall ſee what concluſions na<g ref="char:EOLhyphen"/>turally flow from this Argument.</p>
+               <p>Firſt, That the <hi>Commons</hi> did at that time no more but diſſent from the motion of the <hi>Lord Major and Aldermen:</hi> and therefore they did no more then, but what wee now grant them.</p>
+               <p>Secondly, The putting off the buſineſſe to the Poll was the Act of the <hi>Lord Major and Aldermen;</hi> therefore it proves nothing that the <hi>Commons</hi> have any power to put any buſineſſe to the Poll; but that that power reſts in the <hi>Lord Major and Aldermen.</hi>
+               </p>
+               <p>Thirdly, The putting the buſineſſe to Poll, was the <hi>Lord Major and Aldermens</hi> voluntary Act. Therefore not binding, nor neceſſ<g ref="char:EOLhyphen"/>ſary, ever to bee followed againe, in ſuch a caſe.</p>
+               <p>Fourthly, The reaſon why the <hi>Lord Major and Aldermen</hi> put the buſineſſe to the Poll, was <hi>Becauſe they conceived they ſhould car<g ref="char:EOLhyphen"/>ry it by plurality of Votes.</hi> Therefore if the <hi>Lord Major and Alder<g ref="char:EOLhyphen"/>men</hi> doe not at any time conceive they ſhall carry their buſineſſe through by plurality of Votes, they may chooſe to put it to the Poll.</p>
+               <p>Laſtly, The <hi>Lord Major and Aldermen</hi> thus unadviſedly rely<g ref="char:EOLhyphen"/>ing on their own ſtrength, putting the buſineſſe to the Poll, quite loſt it. Therefore let the <hi>Lord Major and Aldermen</hi> take heed of waving their own Rights, and putting any more buſi<g ref="char:EOLhyphen"/>neſſes to the Poll, which they need not, leſt they accordingly loſe by it.</p>
+               <p>And thus All in this Inſtance, draws a contrary way to that Mr. <hi>Bellamy</hi> would have it; and is ſo farre from making up his Concluſions, that it makes every Concluſion againſt him: ſo farre is it from ſhewing any reaſon why the <hi>Lord Major and Al<g ref="char:EOLhyphen"/>dermen</hi> by this practiſe ſhould loſe their negative voyce, that it more confirms them in it: and gives them faire warning for putting any more buſineſſes to the Poll, leſt they bee polled of all their Rights and Priviledges by it: and leaſt (bee their Cauſe
+<pb n="21" facs="tcp:158465:15"/>never ſo good) they ſhould bee over-voted and loſe it, which may eaſily come to paſſe when they think otherwiſe, as it did in this Inſtance with Sir <hi>Richard Gurney.</hi>
+               </p>
+               <p>But a little more to weaken this Mr. <hi>Bellamies</hi> practicall Argu<g ref="char:EOLhyphen"/>ment, I muſt tell you it is nothing to the purpoſe, either to prove any thing for, or againſt a negative voyce in the <hi>Lord Major and Aldermen,</hi> for it is plain all along the Story, that in this inſtance the voyces of the <hi>Lord Major and Aldermen,</hi> were alwaies affir<g ref="char:EOLhyphen"/>mative, and never negative. They were firſt affimative to have the Petition accepted; they were alſo affirmative, to have the Court numbred by Poll: Now wee doe not maintain that the <hi>Lord Major and Aldermen</hi> have any more in an affirmative voyce then the <hi>Commons:</hi> which is plainly againſt Charter: but wee ſay their Priviledge lyes, in that they have a negative voyce, whereby they can hinder the <hi>Commons</hi> from making Laws with<g ref="char:EOLhyphen"/>out them: Now Mr. <hi>Bellamy</hi> in this Inſtance proves nothing, but that the <hi>Lord Major and Aldermen</hi> had not an Affirmative voyce granted them by the <hi>Commons,</hi> which nothing at all proves that therefore they have not a Negative.</p>
+               <p>Thus I have ſhewed you what hee hath proved by Practiſe: I come now to ſhew you how hee proves by Argument that the <hi>Lord Major and Aldermen</hi> can have no Negative voyce in making of a Law, but that the <hi>Commons</hi> as touching the making of a Law are above them.</p>
+               <p>Hee undertakes it by way of <hi>Syllogiſme</hi> in this manner.<note place="margin">The Major propoſition.</note>
+               </p>
+               <p>
+                  <hi>That</hi> Court <hi>which hath the power to make a Law, and by that Law to conferre a Power upon the</hi> Lord Major and Aldermen, <hi>which they as</hi> Lord Major and Aldermen, <hi>had not before, is</hi> quoad hoc, <hi>that is, ſo far as to the making of a Law above the</hi> Lord Major and Aldermen.</p>
+               <p>
+                  <hi>But this</hi> Court of Common-Councell <hi>hath ſuch a power.</hi>
+                  <note place="margin">The Minor propoſition. The concluſion</note>
+               </p>
+               <p>
+                  <hi>Therefore</hi> quoad hoc, <hi>that is, ſo farre as to the making of a Law, they are above the</hi> Lord Major and Aldermen.</p>
+               <p>In which <hi>Syllogiſme</hi> the fallacy lies in the <hi>minor propoſition,</hi> in the word <hi>Common-Councell.</hi>
+               </p>
+               <p>For if Mr. <hi>Bellamy</hi> by the word <hi>Common-Councell,</hi> meane the whole body of that Court; which conſiſts of the <hi>Lord Major, Aldermen, and Commons joyntly,</hi> without which there can bee no <hi>Common-Councell:</hi> then I am of Mr. <hi>Bellamies</hi> minde, and grant,
+<pb n="22" facs="tcp:158465:16"/>that the whole Body of the <hi>Common-councell,</hi> conſiſting as afore<g ref="char:EOLhyphen"/>ſaid; may conferre a power not onely upon the <hi>Lord Major and Aldermen,</hi> which they had not before, But upon any other ca<g ref="char:EOLhyphen"/>pable perſon or perſons, and in that reſpect are above them, as the whole is above any part.</p>
+               <p>But if by the word <hi>Common-councell,</hi> hee meanes onely a part of the <hi>Common-councell,</hi> which are the <hi>Commons</hi> there Aſſembled: then (though, as wee ſaid before, the <hi>Common-councell</hi> may, yet) the <hi>Commoners</hi> of themſelves cannot make any ſuch Law, contrary to the negative voyces of the <hi>Lord Major and A dermon:</hi> nor are the <hi>Commons</hi> as towards the making of a Law above them: for it cannot hold that becauſe the whole man is greater then the head, and (as the whole in reſpect of the parts above it) that therefore the hands or feet or any other particular part of the bo<g ref="char:EOLhyphen"/>dy is above the head.</p>
+               <p>I ſhall give you an Example or two to make this cleare.</p>
+               <p>It is in the power of the Body, to move by the joynt power of the Head, and ſo to doe that which the Head cannot do other<g ref="char:EOLhyphen"/>wiſe, or which the head could not have done before: Therefore it is in the power of the hands alone, or any other member to do this whether the head will or no, and ſo to bee in reſpect of that action above the head.</p>
+               <p>Or thus, It is in the power of an Army (that conſiſts of a Generall, Officers and Souldiers) to fight when they ſhall think fit. Therefore it is in the power of the Souldiers alone, to fight whether the Generall think fit or no, and ſo in that reſpect to bee above the Generall.</p>
+               <p>Juſt ſo looks Mr. <hi>Bellamies</hi> Syllogiſme like one of theſe, when it is uncaſed.</p>
+               <p>Hee tells you it is in the power of the <hi>Common-councell,</hi> which conſiſts of <hi>Lord Major Aldermen and Commons,</hi> to make a Law, and by that Law to confer a power upon the <hi>Lord Major and Aldermen,</hi> which they had not before: Therefore it is in the power of the <hi>Commons</hi> alone to doe this, and in this reſpect to bee above the <hi>Lord Major and Aldermen.</hi>
+               </p>
+               <p>His ſecond Argument is of the ſame <hi>hatch,</hi> about the power of <hi>Common-councell</hi> to take away a power which the <hi>Lord Major and Aldermen</hi> had before.</p>
+               <p>
+                  <pb n="23" facs="tcp:158465:16"/>One Anſwer ſerves them both, and that's this: if Mr. <hi>Bellamy</hi> will attribute that power and ſuperiority to the <hi>Commons</hi> alone, which is in the <hi>Common-councell</hi> rightly conſidered, hee gives that to a part, which belongs to the whole: but if by <hi>Common-coun<g ref="char:EOLhyphen"/>cell,</hi> hee meanes as I meane, and hee ought to meane; then this Argument proves a great power and ſuperiority in the <hi>Lord Ma<g ref="char:EOLhyphen"/>jor, Aldermen and Commons</hi> joyntly above any part aſunder, but no power at all in the <hi>Commons</hi> to make any Law without the <hi>Lord Major and Aldermen,</hi> nor any way to bee above them.</p>
+               <p>I ſhall ask him but one Queſtion, and I have done with theſe Arguments.</p>
+               <p>Whether a power was at any time given to the <hi>Lord Major and Aldermen</hi> which they had not before, or whether there was a pow<g ref="char:EOLhyphen"/>er at any time taken from them which they had before, in <hi>Com<g ref="char:EOLhyphen"/>mon-councell,</hi> by the <hi>Commons</hi> alone, againſt the conſents of the <hi>Lord Major and Aldermen.</hi>
+               </p>
+               <p>If there were ever ſuch a power granted to, or taken away from the <hi>Lord Major and Aldermen</hi> in <hi>Common-councell</hi> againſt their will, then that proves ſomething towards the power of the <hi>Commons,</hi> that as touching the making of ſuch a Law, they are a<g ref="char:EOLhyphen"/>bove the <hi>Lord Major and Aldermen.</hi>
+               </p>
+               <p>But if not, though there have ſuch Lawes beene made in <hi>Com<g ref="char:EOLhyphen"/>mon-councell;</hi> by joynt conſent of the <hi>Lord Major, Aldermen, and Commons,</hi> when the <hi>Lord Major and Aldermen</hi> ſaw no reaſon to uſe their negative voyces; yet it doth not follow that they had no Negative voyces, becauſe they did not uſe them: or becauſe they ſuffered ſuch Laws to bee made, that therefore (if they had pleaſed) they could not have hindred them.</p>
+               <p>Thus his Arguments brought to prove that it cannot bee ſo that the <hi>Lord Major and Aldermen</hi> ſhould have a Negative voyce in <hi>Common-councell,</hi> but that the <hi>Commons</hi> as touching the making of Lawes are above them: you ſee when they are throughly can<g ref="char:EOLhyphen"/>vaſt, what they are; falſely pretending much Truth and ſound<g ref="char:EOLhyphen"/>neſſe, but indeed containing nothing leſſe.</p>
+               <p>I handle him now at his laſt weapon, with which hee under<g ref="char:EOLhyphen"/>takes to prove, that by Equity and Reaſon, it ought not to bee ſo.</p>
+               <p>And what is his Equity and Reaſon for it? it is becauſe the Al<g ref="char:EOLhyphen"/>dermen are in number but 26. the Commoners 230. Therefore
+<pb n="24" facs="tcp:158465:17"/>(ſaith hee) it is not Equity and Reaſon that ſo few ſhould have a Negative voyce over ſo many; but on the contrary that the greater number, as touching the making of a Law ſhould bee a<g ref="char:EOLhyphen"/>bove them.</p>
+               <p>This Argument is of the ſame litter with the other two and much favours them. Tis a pretty conſequence if you marke it well. I ſhall give it you in another Inſtance or two.</p>
+               <p>The Souldiers of an Army are farre more in number then the Generall and his Officers; Therefore it is not Equity or Juſtice, That (if at any time the Souldiers have a minde to fight) the Commanders ſhould have a Negative voyce over them or power to hinder them, becauſe the Commanders are farre fewer in num<g ref="char:EOLhyphen"/>ber then the Soulders are.</p>
+               <p>Or thus, The head in the naturall Body is but one; the hands are two, ſo are the feet. Therefore the head ought not to re<g ref="char:EOLhyphen"/>ſtrain the hands or feet from doing any thing whatſoever (if it bee from ſtriking or hurting the head) becauſe the hands and feet are more in number then the Head.</p>
+               <p>Juſt thus holds Mr. <hi>Bellamies</hi> Equity and Juſtice, in this place hee acknowledgeth the <hi>Lord Major and Aldermen</hi> to bee the Head, the <hi>Commons</hi> to bee the Members, but theſe members (ſaith hee) are farre more then the head, <hi>Ergo,</hi> the head ought not in the paſſing of a Law to have a Negative voyce over the Members, but the members as touching the making of a Law, ought to bee a<g ref="char:EOLhyphen"/>bove the Head.</p>
+               <p>But hee tels you preſently how much miſchiefe would follow if a Negative voyce ſhould bee left to ſo few as the <hi>Lord Major</hi> and <hi>Aldermen,</hi> over ſo many as the whole Body of the Com<g ref="char:EOLhyphen"/>mons aſſembled in <hi>Common-councell.</hi>
+               </p>
+               <p>Firſt, Hee ſaith, <hi>It would obſtruct all good Laws from paſſing:</hi> To make which good, hee muſt either prove there is leſſe wiſe<g ref="char:EOLhyphen"/>dome in the <hi>Lord Major and Aldermen,</hi> to know how to make a good Law, then there is in the Commons, or elſe there is leſſe integrity in the <hi>Lord Major and Aldermen,</hi> to paſſe ſuch Laws for the Cities good, then there is in the Commons: Till one or both of theſe bee prov'd, I ſhall give this Objection no further Anſwer.</p>
+               <p>His ſecond Argument is, that <hi>by this meanes the City would fall
+<pb n="25" facs="tcp:158465:17"/>into a remedileſſe way of Ruine:</hi> and hee inſtanceth in the caſe of Sir <hi>Richard Gurneys ſtanding out againſt the juſt deſires and commands of the Parliament.</hi>
+               </p>
+               <p>I ſhall throw his own Inſtance at his head, and beat him with his laſt weapon.</p>
+               <p>In the caſe of Sir <hi>Richard Gurney,</hi> I would fain know how the City fell into a remedileſſe way of ruine.</p>
+               <p>When it was found that Sir <hi>Richard Gurney</hi> was a man uncor<g ref="char:EOLhyphen"/>diall and unfaithfull to the Parliaments Service, was hee not pre<g ref="char:EOLhyphen"/>ſently apprehended, removed, and committed by Authority of the ſame Parliament? and was not the City ſoon reduced from <hi>this remedileſſe way of ruine?</hi> and a faithfull and active <hi>Lord Major</hi> placed in his roome?</p>
+               <p>And doe you not think it would happen ſo again, either in the <hi>Lord Major</hi> or <hi>Aldermen,</hi> if they ſhould not bee men of that integrity which is expected; would the Parliament think you, ſit ſtill, and look on, and provide the City no Remedy?</p>
+               <p>Away then, for ſhame, with ſuch ſenſeleſſe Arguments,<note place="margin">See his own book, p. 16. l. 17.</note> and let us heare no more of your <hi>ſitting ſtill, and ſighing with your fin<g ref="char:EOLhyphen"/>gers in your Eyes;</hi> and cannot tell what you would have; which are Arguments fitter for a childe to begge Plums with, then a Common-Councell man, Priviledges.</p>
+               <p>But next hee tels you what hee hath done all this while, what hee hath fully and <hi>clearely proved both by Charters and by Practice,</hi> I ſhall give it you in his own words: They are theſe, <hi>That the</hi> Lord Major, Aldermen <hi>and</hi> Commons <hi>conjunctim, and not either alone as ſeparated or diſ-junct from the other, are the proper recipients of thoſe Grants and Priviledges which our Royall Kings have in their bounty and favour inveſted this City with.</hi>
+               </p>
+               <p>And hath hee rais'd all this duſt, ſpent all this time and mat<g ref="char:EOLhyphen"/>ter to prove this? I know no body that offers to deny it him: for my part, I have already granted, and will not now recall, that the proper Recipients of the City Priviledges are the <hi>Lord Major, Aldermen and Commons conjunctim,</hi> that is, joyntly, but not equal<g ref="char:EOLhyphen"/>ly, as, the <hi>Lord Major and Aldermen</hi> may bee joyned with the <hi>Commons</hi> in one Commiſſion, and yet have a greater power then they, by vertue of the ſame Commiſſion, or the <hi>Commons</hi> may have joynt Right with the <hi>Lord Major and Aldermen,</hi> to the Ci<g ref="char:EOLhyphen"/>ty
+<pb n="26" facs="tcp:158465:18"/>Charters, that is, to the benefit that is received by them, yet the power of acting and exerciſing thoſe Charters may bee intruſted in the <hi>Lord Major and Aldermen,</hi> as I have ſhewed before.</p>
+               <p>But here I muſt tell you what I may well feare, leſt Mr. <hi>Bellamy</hi> in this claim (made to uſurpe the Rights of the <hi>Lord Major and Aldermen</hi>) doe not ſin againſt knowledge.</p>
+               <p>My reaſon is, becauſe if you compare but two things; what before hee ſaid hee would prove; and what here hee ſaith hee hath proved: you will finde hee doth acknowledge a weakneſſe in his own Arguments, that they cannot make good what hee would have them.</p>
+               <p>For Example, read p. 9. lin. 24. and pag. 11. lin. 1. of his book, and in thoſe hee tels you hee will make cleare:</p>
+               <p>Firſt, <hi>That the</hi> Commons <hi>have equall ſhare with the</hi> Lord Major <hi>and</hi> Aldermen, <hi>in City priviledges.</hi>
+               </p>
+               <p>Secondly, <hi>That if there bee any advantage, it is to the</hi> Commons.</p>
+               <p>Thirdly, <hi>That the</hi> Lord Major and Aldermen <hi>have no more nega<g ref="char:EOLhyphen"/>tive voyce t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en the inferiour members of the Court.</hi>
+               </p>
+               <p>Theſe things hee undertakes to prove: and yet when hee hath brought all the Arguments hee can to prove them: hee concludes his Arguments in the laſt line of the 16. and beginning of the 17. page, by telling you that hee hath proved; what?</p>
+               <p>Firſt, Hee doth not ſay hee hath proved <hi>That the</hi> Commons <hi>have an equall ſhare with the</hi> Lord Major and Aldermen, <hi>in City pri<g ref="char:EOLhyphen"/>viledges.</hi>
+               </p>
+               <p>Secondly, Hee doth not ſay there, that hee hath proved <hi>any advantage to the</hi> Commons.</p>
+               <p>Thirdly, Hee doth not ſay, hee hath proved any thing at all <hi>to take away the</hi> Lord Major and Aldermens <hi>negative voyce.</hi>
+               </p>
+               <p>All that hee ſaith hee hath proved, is, that <hi>the City priviledges belong to the</hi> Lord Major, Aldermen and Commons <hi>joyntly,</hi> which is no more then wee grant: whence I conclude thus much.</p>
+               <p>That Mr. <hi>Bellamy</hi> at firſt would have proved thoſe things which hee undertook to prove with all his heart: but finding when hee had brought in all his Arguments, they were too weak to prove what hee would have, though hee ſaid hee would prove them at firſt, yet hee dares not ſay, hee hath proved them at laſt: but faith onely hee hath proved a <hi>joynt ſhare that the</hi> Lord Major, Al<g ref="char:EOLhyphen"/>dermen
+<pb n="27" facs="tcp:158465:18"/>and Commons <hi>have in City priviledges,</hi> which for my part never was, or ſhall bee denyed him.</p>
+               <p>But for all this, though hee dares not ſay hee hath proved what hee undertook, (and if hee ſhould ſay ſo, no wiſe man would be<g ref="char:EOLhyphen"/>leeve him) yet hee layes as hard claim to the ſame Priviledges, as if hee had proved all before him: which makes mee feare hee ſins againſt knowledge; for to indevour by violence to gain, what a man cannot make good his right unto, is a plain ſin of covetouſ<g ref="char:EOLhyphen"/>neſſe, and againſt knowledge.</p>
+               <p>And now with a faire glozing concluſion, having thus prepared a Pill, hee tryes to make it work.</p>
+               <p>It is a Linſey-wolſey-concluſion, and the laſt part ſpoyles the firſt: In the firſt part, hee tells your <hi>Lordſhip hee honours you, with your Brethren, hee acknowledgeth you to bee the Cities Head, and that in eclipſing your Honour they wound themſelves.</hi>
+               </p>
+               <p>I would fain know if any man will beleeve this? when</p>
+               <p>Firſt, The honour hee gives you, is to pull you downe from be<g ref="char:EOLhyphen"/>ing ſo high as your own Rights and Charters have made you: and to make your Lordſhips power in a <hi>Common-councell,</hi> no more then the youngeſt and meaneſt Commoner, who hath a voyce as well (nay as good) as your Lordſhip, if your negative voyce bee once taken away.</p>
+               <p>Secondly, Hee tels you, <hi>hee acknowledgeth you under his Majeſty to bee head of this City:</hi> and yet the head muſt not have a negative voyce to whatſoever the members will have done.</p>
+               <p>Thirdly, Hee tels you that <hi>if they ſhould goe about to Eclipſe your Honour they would wound themſelves;</hi> when how can hee goe more about to Eclipſe your honour, nay to deſtroy it, then hee doth? by leaving you in a <hi>Common-councell</hi> but the name of a <hi>Lord Ma<g ref="char:EOLhyphen"/>jor,</hi> but making you a Commoner onely like himſelfe. When 1. you ſhall have no more power of the Sword; when you have laid it down, you ſhall not take it up till hee pleaſe. 2. When you ſhall have no more power or voyce in <hi>Common-councell,</hi> then the meaneſt Commoner that ſits with you.</p>
+               <p>But wee are not yet come to the ſnake that lies hid in this graſſe, that appeares in the next words, which are theſe.</p>
+               <p>
+                  <hi>As wee give you the honour of head-ſhip, take not from us the right of memberſhip.</hi>
+               </p>
+               <p>
+                  <pb n="28" facs="tcp:158465:19"/>If hee would have ſpoke plaine, hee ſhould have ſaid rather, ſince wee make you the head, wee beſeech you make us the hat, that wee may bee above our head.</p>
+               <p>I know no body denies you the right of memberſhip; if you could bee content with that: but as it was thought ſtrange by St. <hi>Paul</hi> that the members of the naturall body ſhould thus argue: that the hands or the feet ſhould ſay thus to the head, becauſe wee are not the head, therefore wee are not of the body: ſo is it no leſſe ſtrange in the body Politicke; when the <hi>Commoners</hi> in <hi>Common-councell,</hi> (whom Mr. <hi>Bellamy</hi> would have us ſuppoſe to bee <hi>the bands and feet of the City</hi>) ſhall upbraid their head, as St. <hi>Paul</hi> ſaith, and tell him thus: Becauſe wee are not the head, therefore wee are not of the body: Becauſe wee doe not act the head in ordering the reſt of the body; Becauſe wee have not as much power as the head, to make Laws without, and againſt our head; and becauſe our head will preſume to have a negative voyce ouer us, and will not rather ſuffer us to have a negative voyce over him; therefore hee denies us the right of member-ſhip: No, if you unmaske your claim, and let it appeare with its own face, you doe not begge of the <hi>Lord Major</hi> and <hi>Aldermen,</hi> the right of memberſhip, for that is granted you, in your aſſenting and diſſenting voyces, when any Law is propoſed, but you either would bee the hat above your head, or at leaſt have an equall power with him, which were to make two heads, and create a monſter.</p>
+               <p>But hee tells you <hi>in the naturall body; the head cannot act without the members, and therefore the</hi> Lord Major and Aldermen, <hi>though they bee the head of this great City, yet they cannot act without the concurrent pow<g ref="char:EOLhyphen"/>er of the</hi> Commons, <hi>as hands and feet to aſſiſt them.</hi>
+               </p>
+               <p>I anſwer, it is granted, that the <hi>Lord Major</hi> and <hi>Aldermen</hi> can<g ref="char:EOLhyphen"/>not act without the <hi>Commons;</hi> and hence it is that they may pro<g ref="char:EOLhyphen"/>poſe Lawes as long as they will, but can make none without your conſent: and this is the height of your priviledge.</p>
+               <p>But did you ever know in the naturall body, that the hands and feet could act without the power of the head? this is that that you would doe, wee yeeld the <hi>Lord Major</hi> and <hi>Aldermen</hi> cannot work without you, but you would work without them, making what Laws you think good, without their conſent, nay againſt their conſent, if by plurality of voyces you can but carry them.</p>
+               <p>
+                  <pb n="29" facs="tcp:158465:19"/>Wherein conſider ſeriouſly what injury you would do them. If you ſhould take away the power of a Negative voyce from them, you think thereby you make them but equall with your ſelves: you are miſtaken; for you make them farre lower then your ſelves: for, for your parts you have a negative voyce (though not formally, yet in effect) ſince if the <hi>Lord Major</hi> and <hi>Aldermen</hi> propoſe a Law, you are able at any time, by reaſon of your num<g ref="char:EOLhyphen"/>ber, if you but diſſent, to hinder it from paſſing; but as for them, when at any time the <hi>Commons</hi> ſhall propoſe a Law (unleſſe you grant them a negative voyce, to ſtop what they think not fit to paſſe) their number is ſo ſmall, compared with yours, that they can never ſtop any thing from paſſing that you ſhall propoſe, (though you may ſtop any thing, that they propoſe) becauſe they are ſo unequall to you in number.</p>
+               <p>Thus it is cleare what you goe about, not to make your head equall with the reſt of the members, but even farre below the feet; unleſſe you will make as great a number of <hi>Aldermen</hi> as there are of <hi>Commons:</hi> that if they have their negative voyces taken away, they may have ſome hopes left to carry on, or ſtop ſome things in Ci<g ref="char:EOLhyphen"/>ty Government, by plurality of voyces as you now doe.</p>
+               <p>The next clauſe I forbeare to anſwer, becauſe it is a plaine Bull.</p>
+               <p>He tels you, <hi>The beſt and ſoundeſt bodies are apt to diſtempers, and thoſe maladies in the nobleſt parts are moſt dangerous; if therefore there be an <g ref="char:V">Ʋ</g>lcer or Tumor in the bead</hi> (ſaith hee) <hi>that hinders the neceſſary and naturall motion of the reſt of the members, and endangers the life of all: Oh then blame not the feet if they run forth to ſeeke a Remedy, nor yet the bands if they apply it.</hi> A moſt groſſe Bull, as if it were poſſible for <hi>the feet to run, or the hands to act in applying a Remedy, when the diſtem<g ref="char:EOLhyphen"/>per of the head</hi> (as he himſelf confeſſeth) <hi>hinders the naturall and ne<g ref="char:EOLhyphen"/>ceſſary motion of the reſt of the members.</hi>
+               </p>
+               <p>But now to avoid all exceptions, leſt any man ſhould ſay, hee hath not more then cleared all that hee undertakes: you ſhall ſee he will not let an objection be in poſſibility to bee made; but like one of <hi>Pharaohs</hi> Midwives he brings it into the world, and then de<g ref="char:EOLhyphen"/>ſtroyes it.</p>
+               <p>Hee tells you he foreſees an objection that may be made againſt a part of that which he hath ſpoken: <hi>viz. The election of ſome City
+<pb n="30" facs="tcp:158465:20"/>Officers, hath been time out of minde in other hands, and not the hands of the Commons.</hi>
+               </p>
+               <p>Mee thinks if Mr. <hi>Bellamies</hi> ſpectacles had been true, when hee foreſaw this Objection, hee might have foreſeen a bigger, and that's this.</p>
+               <p>The Active power in making a Law, &amp; the Negative voice in hin<g ref="char:EOLhyphen"/>dering a Law, have been time out of mind in the hands of the Lord <hi>Major</hi> and <hi>Aldermen,</hi> what ſay you to that?</p>
+               <p>But it may bee the ſame anſwer will ſerve both theſe Objections: Or becauſe he gives a twofold Anſwer, we will try if the one will not ſerve the one, and the other the other.</p>
+               <p>His Anſwer to this Objection is twofold.</p>
+               <p>Firſt, The ſame that Chriſt gave to the Phariſees in the caſe of Divorce: which is a little too bold in my Opinion. It is this, <hi>From the beginning it was not ſo:</hi> It was eaſie for Chriſt who was from the beginning, and is the beginning and ending; to tell what was ſo, or what was not ſo from the beginning: but for Mr. <hi>Bellamy</hi> thus to anſwer, I ſcarce ſee how hee can fadome ſo great Antiqui<g ref="char:EOLhyphen"/>ty as to make it good; nor indeed doth hee goe about it: for you muſt take his own word for it, that it was not ſo from the begin<g ref="char:EOLhyphen"/>ning, while hee doth not alleadge any Charter, Record, or Autho<g ref="char:EOLhyphen"/>rity to prove it by.</p>
+               <p>His ſecond Anſwer is this, <hi>If this power hath been time out of minde out of the</hi> Commons <hi>hands, then it was either loſt by uſurpation, or conſent.</hi>
+               </p>
+               <p>If <hi>by uſurpation</hi> (ſaith hee) <hi>it is juſt it ſhould bee reſtored.</hi>
+               </p>
+               <p>Wee grant it, but leave him to prove the uſurpation.</p>
+               <p>
+                  <hi>But if by conſent; then if cauſe and Reaſon require, the</hi> Common-councell <hi>may reaſſume this loſt power into their hands again, as they have done in another caſe.</hi>
+               </p>
+               <p>This wee grant alſo: if Mr. <hi>Bellamy</hi> doe not here again equi<g ref="char:EOLhyphen"/>vocate with the word <hi>Common-councell.</hi>
+               </p>
+               <p>For wee know the Charter of <hi>Edward</hi> the third, confirmes a power to the <hi>Common-councell</hi> of altering, as well as making Laws; and as any thing is made for the Cities good by power of <hi>Com<g ref="char:EOLhyphen"/>mon-councell,</hi> ſo upon good reaſon it may bee by the ſame pow<g ref="char:EOLhyphen"/>er reverſt: but then it muſt bee done by power of <hi>Common-coun<g ref="char:EOLhyphen"/>cell</hi> indeed: which cannot bee meant of the <hi>Commons</hi> alone, but
+<pb n="31" facs="tcp:158465:20"/>of the <hi>Lord Major, Aldermen</hi> and <hi>Commons,</hi> joyntly.</p>
+               <p>And ſo I grant it: that if the <hi>Lord Major, Aldermen</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> ſhall conſent to reinveſt you in that power; which (I con<g ref="char:EOLhyphen"/>feſſe, I doe not beleeve you ever had in the beginning) though you confidently ſay ſo) no doubt but then you may reaſſume it.</p>
+               <p>But if that power were heretofore (as you conceive) made o<g ref="char:EOLhyphen"/>ver or given away, by your forefathers (upon ſolid reaſons in their eſteeme) into the hands of the <hi>Lord Major</hi> and <hi>Aldermen,</hi> then (though you can ſhew, it may bee, better reaſons, why to reaſſume it, then they had to give it away) it is not in your pow<g ref="char:EOLhyphen"/>er (that is, it is not in the power of the <hi>Commons</hi> of themſelves) to reaſſume it, without the conſent of the <hi>Lord Major</hi> and <hi>Alder<g ref="char:EOLhyphen"/>men,</hi> who are now poſſeſt of it: no more then it is in my power, when I liſt, without the conſent of the poſſeſſor, to enter upon any Land or meanes, which my Father lawfully ſold heretofore, upon pretence that I can ſhew better reaſons why I ſhould keep it, then my Father ſhewed why hee ſhould ſell it.</p>
+               <p>Thus you ſee you have made but one objection where you might have made many, and but the leaſt, when you might have found farre greater, and yet both your Anſwers will not ſerve to ſa<g ref="char:EOLhyphen"/>tisfie that.</p>
+               <p>Firſt, You tell us <hi>from the beginning it was not ſo,</hi> which you ne<g ref="char:EOLhyphen"/>ver prove, and therefore wee deny.</p>
+               <p>Secondly, You tell us why, <hi>If your Priviledges have been loſt, they ought to bee reaſſumed.</hi>
+               </p>
+               <p>Firſt, <hi>If they were uſurpt,</hi> which wee ſay they were not.</p>
+               <p>Secondly, <hi>If given away by conſent,</hi> which wee ſay, without the conſent of the <hi>Lord Major and Aldermen,</hi> who are the now poſ<g ref="char:EOLhyphen"/>ſeſſours of thoſe Priviledges which you pretend to have loſt, you of your ſelves cannot reaſſume them.</p>
+               <p>And thus like <hi>Heroules,</hi> I have cut off two of the heads of this <hi>Hydra,</hi> the third follows, which as it riſeth, I ſhall likewiſe la<g ref="char:EOLhyphen"/>bour to deſtroy. And it is this,</p>
+               <p>
+                  <hi>The Reaſons or Arguments why thoſe perſons unto whom this power is committed, ſhould carefully and conſcionably maintain and uſe thoſe Privi<g ref="char:EOLhyphen"/>ledges with which they are intruſted.</hi>
+               </p>
+               <p>The Reaſons hee gives for this, are theſe two:</p>
+               <p>Firſt, <hi>From the dammage and loſſe which our Predeceſſors have ſuffe<g ref="char:EOLhyphen"/>red
+<pb n="32" facs="tcp:158465:21"/>for miſ-uſage and non-uſage of thoſe Priviledges, and Immunities, which by the favour of former Princes have been beſtowed on us.</hi>
+               </p>
+               <p>In proſecuting whereof, though hee cite the Charter of <hi>Edward</hi> the third, the firſt of his Reigne, to <hi>free the City from bearing the offences of particular miniſters of Juſtice,</hi> yet hee tels you, <hi>If the</hi> Com<g ref="char:EOLhyphen"/>mon-councell <hi>either not uſe, or miſ-uſe their Priviledges, they may ex<g ref="char:EOLhyphen"/>pect to ſmart for it, as their Predeceſſours did;</hi> and here hee inſtanceth in the fifteenth yeer of <hi>Edward</hi> the third, <hi>What it coſt the City for not fully uſing their free Cuſtoms and Liberties:</hi> whence hee obſerves, <hi>That it is not enough for us to uſe ſome of our Priviledges, but wee muſt uſe them all.</hi>
+               </p>
+               <p>My <hi>Lord,</hi> I ſhall urge no more upon your Lordſhip, and the reſt of your Brethren in this place, then that you would remem<g ref="char:EOLhyphen"/>ber Mr. <hi>Bellamies</hi> obſervation: which is, <hi>That your Predeceſſors have ſmarted for not fully uſing their Priviledges, and therefore it is not enough for you to uſe ſome of your Priviledges, but you muſt uſe them all.</hi>
+               </p>
+               <p>I ſay ſo too, my <hi>Lord,</hi> Mr. <hi>Bellamy</hi> and I in this are both of a mind, it is not therefore enough for your Lordſhip to uſe the power of the Sword at home, or abroad in the City onely, which is but <hi>ſome of your Priviledge,</hi> but you muſt uſe it in <hi>Common-councell</hi> too, by reſerving in your ſelfe, the power of laying it by when you pleaſe, and taking it up againe when you pleaſe, whether with, or with<g ref="char:EOLhyphen"/>out the <hi>Commons</hi> conſent, or elſe you doe not <hi>uſe all your Privi<g ref="char:EOLhyphen"/>ledge.</hi>
+               </p>
+               <p>Nor is it enough for you to uſe your aſſenting and conſenting voyces in <hi>Common-Councell</hi> onely, as the <hi>Commons</hi> doe uſe them, (which is indeed all their Priviledge, but onely <hi>ſome of yours,</hi>) but you muſt uſe your Negative voyce alſo in <hi>Common-councell,</hi> when your judgement tels you, it is for the Cities good, or elſe <hi>you doe not uſe all your Priviledge.</hi>
+               </p>
+               <p>Yet doe I not cloſe with Mr. <hi>Bellamy,</hi> in that Concluſion that hee draws from hence, That becauſe you are bound to uſe all your Priviledges, therefore you muſt uſe more then all.</p>
+               <p>Nor doe I conclude, that becauſe you <hi>grant to the</hi> Commons, <hi>the choyce of ſome Officers, are you therefore bound to grant them the choyce of all,</hi> as Mr. <hi>Bellamie</hi> would have you? which is the ſame as this: that becauſe the Law grants mee an intereſt in ſome of the Land
+<pb n="33" facs="tcp:158465:21"/>of the Kingdome, it ought therefore to grant mee an Intereſt in all.</p>
+               <p>For I think, as Mr. <hi>Bellamy</hi> thinks, but ſomething more: Hee thinks it <hi>much better to uſe and keep what you have then to loſe all;</hi> ſo think I by your Negative voyces: but then hee would have you to <hi>require more then all;</hi> that, I think, is uſurpation.</p>
+               <p>But the more to back this obſervation of his own, well raiſed, but ill managed, that <hi>you muſt uſe not onely ſome, but all your Pri<g ref="char:EOLhyphen"/>viledges;</hi> hee tels you <hi>they are not wanting about the King, that would bee glad to fill their Coffers with City coyn, if they could pick a hole in its Coat.</hi>
+               </p>
+               <p>And hee recites a Record of the ſixteenth of <hi>Richard</hi> the ſecond, <hi>wherein the</hi> Major, Aldermen, and Sheriffes <hi>were deeply fined, and the City Liberties ſeized by the King, becauſe they had abuſed City Pri<g ref="char:EOLhyphen"/>viledges.</hi>
+               </p>
+               <p>My <hi>Lord,</hi> I ſhall commend to your conſideration, a ſhort view of the Record it ſelfe, which is here cited by Mr. <hi>Bellamy,</hi> as if it made much for his Argument, when indeed nothing can make more againſt him.</p>
+               <p>The Record runs thus: <hi>The King granted a Commiſſion to inquire of all and ſingular errors, defects, and miſpriſions in the City of</hi> London, <hi>for want of good government in the</hi> Major, Sheriffes and Aldermen <hi>of the ſaid City.</hi>
+               </p>
+               <p>Herein I ſhall deſire your Lordſhip to take notice of two things:</p>
+               <p>Firſt, from whom this Government was expected: which was not from the <hi>Commons,</hi> but from the <hi>Major, Sheriffes and Aldermen;</hi> ſo runs the Commiſſion.</p>
+               <p>Secondly, for whoſe fault did both they and the City ſuffer? it was not for the fault of the <hi>Commons,</hi> but for the fault of the <hi>Ma<g ref="char:EOLhyphen"/>jor, Sheriffes and Aldermen.</hi>
+               </p>
+               <p>My <hi>Lord,</hi> if ever the like buſineſſe come upon the ſtage againe, that enquiry bee made into the Government of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> how it ſtands, it will bee after the ſame manner.</p>
+               <p>The Commiſſion will run thus: to enquire what hath befaln for want of good Government in the <hi>Major, Sheriffes and Aldermen,</hi> not in the <hi>Commons,</hi> and how will you anſwer it? by ſaying the fault is not ours, for wee gave up the City Government into the hands of the <hi>Commons,</hi> let them look to it; wee gave them an ab<g ref="char:EOLhyphen"/>ſolute
+<pb n="34" facs="tcp:158465:22"/>power of making <hi>Common-councels</hi> to ſit as long as they pleaſed; and of making what Laws they pleaſed, by plurality of their own voyces, without us or our conſent: Doe you think ſuch an anſwer will ſerve your turn? No, (my <hi>Lord</hi>) it will bee re<g ref="char:EOLhyphen"/>plyed, you were by your Charters inveſted in this Power, You, not the <hi>Commons,</hi> were made the City Governours. The Com<g ref="char:EOLhyphen"/>miſſion will not bee anſwered thus, that Mr. <hi>Bellamy</hi> laid a claim to your Priviledges, and therefore you let them goe, but it will fall heavy upon you, becauſe you therefore let them goe, and your puniſhment will bee juſt, when you, from whom good Govern<g ref="char:EOLhyphen"/>ment is expected, give up all government out of your hands in<g ref="char:EOLhyphen"/>to the hands of the <hi>Commons,</hi> at the motion of Mr. <hi>Bellamy.</hi>
+               </p>
+               <p>Thus, my <hi>Lord,</hi> You ſee good reaſon why you ſhould fit faſt in the power which the mercy of God, the favour of ſundry Kings, and your own Charters have ſeated you in: and uſe not onely ſome, but all your Priviledges, ſo you doe not uſe more then all; fince, if ever enquiry bee made, and a hole bee ſought in the Cities coat, it will bee no excuſe for you, that you at the requeſt of Mr. <hi>Bellamy,</hi> gave over your priviledges into the hands of the <hi>Commons:</hi> it being your duty to uſe them, and to uſe them fully your ſelfe, to whoſe charge they are committed.</p>
+               <p>Mr. <hi>Bellamies</hi> ſecond Argument is drawn <hi>from the obligation of a ſacred Oath.</hi>
+               </p>
+               <p>Where you finde him Common-placing about the <hi>diſtinctions, antiquity, authority, and binding power of an Oath.</hi>
+               </p>
+               <p>To which I leave him, and come to make mine own obſerva<g ref="char:EOLhyphen"/>tions out of what hee here ſaith.</p>
+               <p>And firſt let mee ask whether Mr. <hi>Bellamy</hi> himſelfe have not in ſome ſenſe or degree violated this ſacred Oath, by publiſhing with<g ref="char:EOLhyphen"/>out the conſent of the <hi>Common-councell,</hi> (whereof hee is a mem<g ref="char:EOLhyphen"/>ber) ſo deſperate a clamor againſt the very ancient cuſtomes of the City as this, to the diſturbance of its peace.</p>
+               <p>Secondly, Let mee tell your Lordſhip, that you and your Bre<g ref="char:EOLhyphen"/>thren the <hi>Aldermen,</hi> are tyed alſo by another Oath to maintaine the Priviledges, not onely of the City in generall, but your own Priviledges in particular; and till it bee proved that a Negative voyce in <hi>Common-councell</hi> doth not belong to the <hi>Lord Major</hi> and <hi>Aldermen,</hi> nor taking up the Sword in <hi>Common-councell,</hi> and de<g ref="char:EOLhyphen"/>parting
+<pb n="35" facs="tcp:158465:22"/>when hee ſees good, doth not belong to the <hi>Lord Major, (which I would bee loath to faſt, till either of them bee proved)</hi> I muſt put you in minde of your laſt Oath; that as you tender that, you keep them ſtill in your hands, and maintain them.</p>
+               <p>Thirdly, I muſt tell you that you violate the very Oath of a Free-man if you doe not ſo.</p>
+               <p>I ſhall give you that Oath, as Mr. <hi>Bellamy</hi> layes it down: It is this. <hi>The</hi> Franchiſes <hi>and</hi> Cuſtomes <hi>of this</hi> City <hi>you ſhall maintain.</hi> Now it is apparent, that the <hi>Lord Major and Aldermens</hi> Negative voyce in making Laws, their abſolute power in chooſing ſome City-Officers, and the <hi>Lord Majors</hi> power to take up the Sword in <hi>Common-councell</hi> at his diſcretion, and goe away: Theſe are all <hi>Cu<g ref="char:EOLhyphen"/>ſtomes of the City,</hi> and have been ſo time out of minde; and there<g ref="char:EOLhyphen"/>fore I muſt put every Free-man of the City in minde to take heed, leſt thus indevouring to overthrow the City Charters and Cu<g ref="char:EOLhyphen"/>ſtomes, as Mr. <hi>Bellamy</hi> doth, hee violate his Oath, which runs thus: <hi>The</hi> Franchiſes <hi>and</hi> Cuſtomes <hi>of this</hi> City <hi>you ſhall main<g ref="char:EOLhyphen"/>taine.</hi>
+               </p>
+               <p>Thus you ſee Mr. <hi>Bellamy</hi> hath now gone through all that hee propoſed to himſelfe, and I have traced him. Hee hopes he hath fully proved every particular, and I hope I have fully diſproved him in every particular.</p>
+               <p>And now as St. <hi>Paul</hi> ſaid to <hi>Philemon</hi> in the behalf of <hi>Oneſimus;</hi> hee alſo ſpeakes to you, telling you, <hi>Though hee might injoyne you to that which is convenient, yet for Loves ſake bee rather intreats you.</hi>
+               </p>
+               <p>You are beholding to him, if hee doe there intreat you, where hee might injoyn you.</p>
+               <p>But by what Law might hee <hi>injoyn you?</hi> by none that I know of unleſſe it bee Club-law, for all other Law is for you, and I am ſomething afraid leſt his injunction ſhould bee of that nature.</p>
+               <p>For you may remember hee tels you in his Epiſtle, <hi>That bee deales like a forward and unexperiented Souldier, who more hardy then wary, loving his</hi> Countries Liberty, <hi>adventures to begin the Onſet, to provoke and ſtirre up more grave and skilfull</hi> Commanders, <hi>to follow on in hope of victory:</hi> which <hi>ſimile,</hi> though I may not conſtrue in the worſt ſenſe, and though I will charitably beleeve, it means no more then to encourage others by like claime and more earneſt<g ref="char:EOLhyphen"/>neſſe rather to word you out of your Priviledges then Sword
+<pb n="36" facs="tcp:158465:23"/>you out, yet I cannot aſſure you that the multitude will all take it in that ſenſe.</p>
+               <p>Nor can I bee perſwaded, that when Mr. <hi>Bellamy</hi> hath raiſed but the tongues of a City in clamor, that it will bee then in his power to hold their hands: eſpecially when hee gives them this encouragement, that <hi>it is in their power to injoyn you.</hi>
+               </p>
+               <p>But (I hope) God will preſerve your Lordſhip, and your Brethren in more ſafety, and indue this City with more wiſe<g ref="char:EOLhyphen"/>dome and peace, and therefore I leave the matter of injoyning to ſee what it is that hee intreats for.</p>
+               <p>And that is, <hi>For Love and Peace ſake to joyn with them by your con<g ref="char:EOLhyphen"/>ſent and aſſiſtance to ſettle all their Rights and Priviledges upon their own baſis.</hi>
+               </p>
+               <p>I confeſſe this is but a reaſonable motion, and ſo juſt, that I am confident your Lordſhip, together with your Brethren, will not deny, only you may pleaſe, firſt to ſee it proved, that they are not ſo already.</p>
+               <p>And this hee argues <hi>will much make for the Cities ſafety, and for the ſervice of the</hi> King and Parliament.</p>
+               <p>But I muſt anſwer, the City will neither bee in a good condi<g ref="char:EOLhyphen"/>tion themſelves, nor any way ſerviceable to the State, by being all head; but by being a well-compoſed body of Head and mem<g ref="char:EOLhyphen"/>bers.</p>
+               <p>And here (hee ſaith) <hi>hee could weep out his owne eyes: and let out his own bowels, if thereby hee could but penetrate into the breaſt of your Lordſhip, and thoſe worthy</hi> Aldermen <hi>your Brethren in this nick of time</hi> (it ſeems hee is upon the ſpur, and cannot ſtay) <hi>to ſave a ſinking City, if not a dying Kingdome.</hi>
+               </p>
+               <p>I Anſwer, hee ſhall not need to doe any of this if hee will bee quiet: Let him but hold his Tongue, and it ſhall bee all ready done for him: the City ſhall bee preſerved from ſinking from a Body into a monſter by beeing all head: and the dying kingdome will bee in a farre eaſier way to bee preſerved; when every member of the City in his proper ſphere, and not in ano<g ref="char:EOLhyphen"/>ther mans Office, ſhall contribute helpe and influence into it.</p>
+               <p>And now hee puts you in minde, what is <hi>the Enemies maxime,</hi> Divide &amp; impera, <hi>divide and rule.</hi>
+               </p>
+               <p>I grant it is their <hi>maxime,</hi> but I conceive it is meant rather of
+<pb n="37" facs="tcp:158465:23"/>ſuch a Diviſion as hee goes now about to make in the City, by ſetting the <hi>Lord Major, Aldermen</hi> and <hi>Commons</hi> together by the ears under pretence of Charters, Priviledges, and I know not what; ſuch a Diviſion as this will make for the enemies advantage, and not an orderly Diviſion of the City into head and members.</p>
+               <p>Hee tels you, that the <hi>God of unity, the</hi> Charters <hi>of the</hi> City, <hi>and constitution of the</hi> Court <hi>of</hi> Common-councell <hi>makes you one.</hi>
+               </p>
+               <p>Still I anſwer, it is one Body, not one Head.</p>
+               <p>And now (hee ſaith) <hi>hee wants words to expreſſe his ſorrow;</hi> hee might have added, as hee wants Arguments to make good his claime.</p>
+               <p>Hee tels you, <hi>the</hi> Commons <hi>ſtand ready with ſtretcht out armes, to embrace you, and therefore you muſt afford them like mutuall embraces.</hi>
+               </p>
+               <p>What's meant by that? <hi>The</hi> Commons <hi>ſtretch out their armes,</hi> would have you riſe from your ſeats of diſtinction and order, and come and incorporate your ſelves into them, and bee no greater, or rather lower then they; this hee meanes by their <hi>embraces,</hi> and you on the other hand muſt doe ſo, and that is his <hi>mutuall embraces.</hi>
+               </p>
+               <p>And now hee Conjures you in the Apoſtles words, <hi>If therefore there bee any conſolation in Chriſt, if any comfort of Love, if any fel<g ref="char:EOLhyphen"/>lowſhip of the Spirit, if any bowels and mercies in you.</hi> What then? that <hi>you would grant their juſt deſires;</hi> That is, doe them Juſtice, right or wrong; ſecondly, <hi>In love and peace to ſettle, and eſtate them in their Rights and Dues:</hi> and under that pretence, ſettle and eſtate them in your Rights and Dues; and laſtly, to <hi>bee of the ſame minde with them;</hi> hee meanes, to give away your own Rights and Pri<g ref="char:EOLhyphen"/>viledges, becauſe they would have it ſo: and then, <hi>Oh quam bo<g ref="char:EOLhyphen"/>num &amp; jucundum! Oh how good and pleaſant a thing is it for Brethren thus to live together in unity!</hi>
+               </p>
+               <p>And here hee brings a freſh ſupply of Arguments, which hee hath all this while kept in reſerve: I muſt tell him it is high time to bring them out, (if not too late) for his other are quite routed.</p>
+               <p>Firſt, <hi>That as you are the head, and Governours of this City;</hi> What of that? you therefore ought to continue ſo, and not miſplace the Government committed to your charge in the hands of others.</p>
+               <p>Secondly, <hi>As you are bound by ſeverall ſacred Oaths. viz.</hi> You ſhall <hi>maintain the</hi> Cuſtomes <hi>of the</hi> City; which you cannot doe by letting goe your Negative voyces.</p>
+               <p>Thirdly, <hi>As you tender the welfare and Liberties of your poſterity;</hi> which
+<pb n="38" facs="tcp:158465:24"/>bindes you not to give from them what you cannot give to them a<g ref="char:EOLhyphen"/>gain, that is, the very life and glory of the City, which is their Pri<g ref="char:EOLhyphen"/>viledges.</p>
+               <p>But hee forbeares, and ſo will I, and joyn iſſue with him in clo<g ref="char:EOLhyphen"/>ſing up all with the ſame City Hiſtory upon Record; which hee himſelf relates, beſeeching <hi>you to conſider ſeriouſly of it, and to make ſuch application of it, as wiſdome it ſelfe ſhall dictate to you.</hi>
+               </p>
+               <p>The Story is this; <hi>In the yeere</hi> 1389. William Vennor Major, <hi>and</hi> John Walcut, <hi>and</hi> John Lony Sheriffes, <hi>with the then</hi> Aldermen, <hi>who all by name ſtand blemiſht upon Record; that for the errors, defects, and miſpriſions in their Government, they were fined at</hi> 3000 <hi>marks, and the</hi> City Liberties <hi>ſeiſed on by the King: can you imagine that ever any wa<g ref="char:EOLhyphen"/>ter or</hi> Aqua fortis <hi>will waſh and weare off this obloquy and reproach from them?</hi> no nor the like obloquy and reproach or a greater from you, when for a worſe fault then miſ-government, I mean for not government at all, but reſigning your own power and truſt into the hands of others, it ſhall fall heavy upon you.</p>
+               <p>
+                  <hi>Conſider on the other hand, what the wiſeſt of Kings will tell you, that a good name is better then oyntment;</hi> better then the daubing flatteries of Mr. <hi>Bellamy.</hi>
+               </p>
+               <p>But ſuffer mee to give you notice, that this good name will ſcarce belong, or bee given to you: <hi>If for your laſting fame,</hi> but laſting ſhame, <hi>it ſhall ſtand upon Record to after ages when wee are dead and gone; That in</hi> Anno 1645. <hi>when the Right Honourable</hi> Thomas At<g ref="char:EOLhyphen"/>kin <hi>was</hi> Lord Major, <hi>the Right Worſhipfull</hi> William Gibbs, <hi>and</hi> Ri<g ref="char:EOLhyphen"/>chard Chambers, <hi>were</hi> Sheriffes, <hi>and that learned and able Lawyer and Patriot of his</hi> Countries Libertie, John Glynn <hi>was</hi> Recorder: <hi>and ſuch and ſuch worthy</hi> Knights and Gentlemen (all which men will very hardly beleeve you to bee by ſuch an action) <hi>were</hi> Aldermen: that then (as <hi>Diogenes</hi> prophecyed of the world) the City was turned upſide down, the head was laid lower then the feet; The Antipodes of Government was placed in the <hi>Commoners,</hi> and then <hi>by your aſſiſtance and conſent;</hi> London, (<hi>I ſay the</hi> Commonalty of London) <hi>was</hi> not <hi>reſtored,</hi> but inveſted; not <hi>to their,</hi> but with your for ever <hi>loſt Liberties and Priviledges.</hi> Conſider what I ſay, and the Lord give you underſtanding in all things.</p>
+            </div>
+            <trailer>
+               <hi>FINIS.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
